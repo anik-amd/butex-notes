@@ -4,7 +4,7 @@ Syllabus, notes on class lectures and other resources for surviving through the 
 
 # ⚙️ Level 3 - Term 1
 
-- [Academic Notices](L3-T1/00-Notices)
+- [Academic Notices](L3-T1/00-Notices-Syllabus/)
 - [AE 309 - Apparel Manufacturing II](L3-T1/AE-309-Apparel-Manufacturing-II)
 - [AE 310 - Apparel Manufacturing II (Practical)](L3-T1/AE-310-Apparel-Manufacturing-II-Practical)
 - [FE 307 Knitting I](L3-T1/FE-307-Knitting-I)
