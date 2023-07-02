@@ -1,10 +1,6 @@
-<div style="text-align:center">
-<img src="img/2023-07-02-19-29-07.png" />
-</div>
-
 # 📄 Notes on Textile Engineering
 
-Syllabus, notes on class lectures and other resources for surviving through the B.Sc. in Textile Engineering (Specialized in Fabric Engineering) of (BuTex)[https://www.butex.edu.bd/].
+Syllabus, notes on class lectures and other resources for surviving through the B.Sc. in Textile Engineering (Specialized in Fabric Engineering) of [BuTex](https://www.butex.edu.bd/).
 
 # ⚙️ Level 3 - Term 1
 
