@@ -9,3 +9,5 @@
 # 🔗 Other Documents
 
 - [Syllabus](L3T1-syllabus.pdf)
+
+- [Class Schedule of All Dep.](L3T3-Class-Schedule-All-Dep.pdf)
