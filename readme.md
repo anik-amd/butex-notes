@@ -31,6 +31,6 @@ Here are the major tools and toys I've been using to study and take notes. Feel 
 
 # 💚 License & Contribution
 
-This repo is under [MIT License](LICENCE), so you can to do anything with any of the files. You can use them as a reference, or copy them to your own repo, or fork this repo and make your own version.
+This repo is under [MIT License](LICENSE), so you can to do anything with any of the files. You can use them as a reference, or copy them to your own repo, or fork this repo and make your own version.
 
 If you find this repo helpful and want to contribute, feel free to open a pull request. Your help is very much appreciated.
