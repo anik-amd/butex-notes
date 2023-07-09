@@ -16,7 +16,7 @@ Management is consists of,
 ### Industry
 
 <p align="center">
-<img src="img/2023-07-09-21-38-59.png" width="700" />
+<img src="img/2023-07-09-21-38-59.png" width="600" />
 </p>
 
 **Industry** is a place where product or services are produced for profit.
