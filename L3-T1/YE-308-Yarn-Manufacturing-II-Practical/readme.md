@@ -2,6 +2,6 @@
 
 ## Labs
 
-| No  | Title                                                       | Date     |
-| --- | ----------------------------------------------------------- | -------- |
-| 1   | Study on plant layout of jute yarn manufacturing laboratory | 09.07.23 |
+| No  | Title                                                                       | Date     |
+| --- | --------------------------------------------------------------------------- | -------- |
+| 1   | [Study on plant layout of jute yarn manufacturing laboratory](./labs/01.md) | 09.07.23 |
