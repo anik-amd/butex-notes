@@ -2,7 +2,7 @@
 
 ![](img/2023-07-10-21-36-19.png)
 
-_Fig:_ List of Dry process
+_Fig: List of Dry process_
 
 ## Washing
 
@@ -16,7 +16,7 @@ Dry wash is wash where effect is applied on a particular area. Fading, cutting e
 
 ![](img/2023-07-10-21-41-40.png)
 
-_Fig:_ Whisker
+_Fig: Whisker_
 
 **Instruments:**
 
