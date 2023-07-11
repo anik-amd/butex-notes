@@ -21,3 +21,8 @@ Things we'll learn to manage: time, cost and quality.
 ### Reference Books
 
 1. [Principles of Marketing by Philip Kotler](https://www.goodreads.com/book/show/74280.Principles_of_Marketing)
+
+## Suggestions & Questions
+
+- [IM Questions 2021](./questions/IM-questions-2021.md)
+- [IM Questions 2013-18 (PDF)](./questions/IM-questions-2013-18.pdf)

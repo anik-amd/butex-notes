@@ -34,3 +34,8 @@ In modern days, the nation and border of countries creates a complexity in globa
 
 - Part A: Microeconomics
 - Part B: Macroeconomics
+
+## Suggestions & Questions
+
+- [Economics Questions 2017-18 (PDF)](./questions/Economics-question-2017-18.pdf)
+- [Economics Questions 2021)](./questions/Economics-question-2021.md)

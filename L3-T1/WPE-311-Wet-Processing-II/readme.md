@@ -20,3 +20,8 @@
 - Various mechanical finishing
 - Various chemical finishing
 - Special finishing
+
+## Suggestions & Questions
+
+- [WP II Questions 2021](./questions/WP-II-question-2021.md)
+- [WP II Questions 2010-18 (PDF)](./questions/WP-II-questions-2010-18.pdf)
