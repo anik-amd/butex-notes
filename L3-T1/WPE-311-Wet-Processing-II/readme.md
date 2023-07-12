@@ -2,7 +2,7 @@
 
 ## Part A: Printing (MSB)
 
-- Introduction to printing
+- [Introduction to printing](./part-a/1-introduction-to-printing.md)
 - Thickeners
 - Styles of printing
 - Methods of printing
