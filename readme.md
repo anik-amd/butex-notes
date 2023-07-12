@@ -14,6 +14,8 @@ Here are the major tools and toys I've been using to study and take notes. Feel 
 - [Okular](https://okular.kde.org/) - PDF viewer
 - [GitHub Copilot](https://copilot.github.com/) - AI pair.
 - [Prettier](https://prettier.io/) - Code formatter.
+- [LanguageTool VS Code Extension](https://marketplace.visualstudio.com/items?itemName=adamvoss.vscode-languagetool) - Grammar checker.
+- [CamScanner](https://www.camscanner.com/) - Document scanner.
 
 # ⚙️ Level 3 - Term 1
 
