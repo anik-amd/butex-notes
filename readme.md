@@ -1,6 +1,6 @@
 # 📄 Notes on Textile Engineering
 
-Syllabus, notes on class lectures and other resources for surviving through the B.Sc. in Textile Engineering (Specialized in Fabric Engineering) of [BuTex](https://www.butex.edu.bd/).
+Syllabus, notes on class lectures, question banks, suggestions and other resources for surviving through the B.Sc. in Textile Engineering (Specialized in Fabric Engineering) of [BuTex](https://www.butex.edu.bd/).
 
 # 🚀 Getting Started
 
