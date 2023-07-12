@@ -22,7 +22,7 @@
 
 - Economists use the term marginal change to describe a small incremental adjustment to an existing plan of action. Rational people make decisions by comparing marginal benefits and marginal costs.
 
-- Say the cost of producing a garment is \$3. An engineer has an order to produce 500 garments, so total cost of production is $\$3 \times 500$ or \$1500. But the engineer can produce 501 garments with a little extra cost of \$1. So the marginal cost of producing 501 garments is $\$3 \times 500 + 1$ or \$1501. So the marginal cost of producing 501 garments is $1501 - 1500$ or \$1.
+- Say the cost of producing a garment is <span>$</span>3. An engineer has an order to produce 500 garments, so the total cost of production is $\$3 \times 500$ or <span>$</span>1500. But the engineer can also produce 501 garments with a little extra cost of <span>$</span>1. So the marginal cost of producing 501 garments is $\$3 \times 500 + 1$ or <span>$</span>1501. So the marginal cost of producing 501 garments is $1501 - 1500$ or <span>$</span>1.
 
 ### Principle 4: People Respond to Incentives
 
