@@ -32,8 +32,15 @@ In modern days, the nation and border of countries creates a complexity in globa
 
 ## Core Segments
 
-- Part A: Microeconomics
-- Part B: Macroeconomics
+### Part A: Microeconomics
+
+- [Basic Terms & Concepts](./part-a/01-basic-terms.md)
+
+### Part B: Macroeconomics
+
+## Reference Books
+
+- [Principles of Economics by N. Gregory Mankiw](https://www.goodreads.com/book/show/1753460.Principles_of_Economics)
 
 ## Suggestions & Questions
 
