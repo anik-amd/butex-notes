@@ -1,4 +1,6 @@
 {
-  "languageToolLinter.languageTool.ignoredWordsInWorkspace": ["saftety"],
-  "typewriterAutoScroll.enable": true
+  "languageToolLinter.languageTool.ignoredWordsInWorkspace": [],
+  "typewriterAutoScroll.enable": true,
+  // Also enabled globally
+  "languageToolLinter.languageTool.disabledRules": "WHITESPACE_RULE"
 }
