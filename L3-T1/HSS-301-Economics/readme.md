@@ -35,6 +35,7 @@ In modern days, the nation and border of countries creates a complexity in globa
 ### Part A: Microeconomics
 
 - [Basic Terms & Concepts](./part-a/01-basic-terms.md)
+- [10 Principles of Economics](./part-a/02-principles-of-economics.md)
 
 ### Part B: Macroeconomics
 
