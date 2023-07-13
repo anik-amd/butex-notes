@@ -1,5 +1,8 @@
 {
-  "languageToolLinter.languageTool.ignoredWordsInWorkspace": [],
+  "languageToolLinter.languageTool.ignoredWordsInWorkspace": [
+    "bartack",
+    "flatlock"
+  ],
   "typewriterAutoScroll.enable": true,
   // Also enabled globally
   "languageToolLinter.languageTool.disabledRules": "WHITESPACE_RULE"
