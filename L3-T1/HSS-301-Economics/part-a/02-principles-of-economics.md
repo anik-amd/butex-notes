@@ -56,6 +56,20 @@
 
 - Almost all variation in living standards is attributable to differences in countries’ productivity—that is, the amount of goods and services produced by each unit of labor input. In nations where workers can produce a large quantity of goods and services per hour, most people enjoy a high standard of living; in nations where workers are less productive, most people endure a more meager existence. Similarly, the growth rate of a nation’s productivity determines the growth rate of its average income.
 
+### Principle 9: Prices Rise When the Government Prints Too Much Money
+
+- **Inflation:** an increase in the overall level of prices in the economy
+- Because high inflation imposes various costs on society, keeping inflation at a reasonable rate is a goal of economic policymakers around the world.
+- In almost all cases of large or persistent inflation, the culprit is growth in the quantity of money. When a government creates large quantities of the nation’s money, the value of the money falls.
+
+### Principle 10: Society Faces a Short-Run Trade-Off between Inflation and Unemployment
+
+- Most economists describe the short-run effects of money growth as follows:
+  - Increasing the amount of money in the economy stimulates the overall level of spending and thus the demand for goods and services.
+  - Higher demand may over time cause firms to raise their prices, but in the meantime, it also encourages them to hire more workers and produce a larger quantity of goods and services.
+  - More hiring means lower unemployment.
+- This line of reasoning leads to one final economy-wide trade-off: a short-run trade-off between inflation and unemployment.
+
 # Reference
 
 - [Principles of Economics by N. Gregory Mankiw](https://www.goodreads.com/book/show/1753460.Principles_of_Economics) - Chapter 1
