@@ -1,6 +1,6 @@
 # FE 308 - Knitting I (Practical)
 
-## Labs
+## Practicals
 
 | No  | Experiment Name                                       | Date     |
 | --- | ----------------------------------------------------- | -------- |
