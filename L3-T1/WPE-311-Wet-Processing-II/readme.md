@@ -16,7 +16,7 @@
 
 ## Part B: Finishing
 
-- Introduction to finishing
+- [Introduction to finishing](./part-b/1-introduction.md)
 - Various mechanical finishing
 - Various chemical finishing
 - Special finishing
