@@ -46,19 +46,27 @@ As TPI provides twist that gives strength to the yarn, we can't lower the number
 
 Increasing spindle speed causes the following problems:
 
-1. Increasing spindle speed will cause increase of spinning tension, due to which end breakage rate will increase.
+**1. End Breakage:**
 
-   ![](img/spinning-speed.png)
-   _Figure: Spinning tension in a ring frame._
-   We can say tension $\propto$ spindle speed $^{2}$.
+Increasing spindle speed will cause increase of spinning tension, due to which end breakage rate will increase.
 
-2. By increasing spindle speed, the friction between traveler and ring will increase. It will cause thermal deformation of traveler and destroy traveler finish due to heat generation.
+![](img/spinning-speed.png)
 
-3. With increase of spindle with power consumption will increase. So the cost of production will increase.
+_Figure: Spinning tension in a ring frame._
 
-   ![](img/power-consumption-spinning.png)
+We can say tension $\propto$ spindle speed $^{2}$.
 
-   _Figure: Power consumption vs spindle speed of ring frame_
+**2. Traveler and Ring Friction:**
+
+By increasing spindle speed, the friction between traveler and ring will increase. It will cause thermal deformation of traveler and destroy traveler finish due to heat generation.
+
+**3. Power Consumption:**
+
+With increase of spindle with power consumption will increase. So the cost of production will increase.
+
+![](img/power-consumption-spinning.png)
+
+_Figure: Power consumption vs spindle speed of ring frame_
 
 ### 3. Package Size
 
