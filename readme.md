@@ -19,7 +19,8 @@ Here are the major tools and toys I've been using to study and take notes. Feel 
 
 # ⚙️ Level 3 - Term 1
 
-- [Academic Notices](L3-T1/00-Notices-Syllabus/)
+## Subjects
+
 - [AE 309 - Apparel Manufacturing II](L3-T1/AE-309-Apparel-Manufacturing-II)
 - [AE 310 - Apparel Manufacturing II (Practical)](L3-T1/AE-310-Apparel-Manufacturing-II-Practical)
 - [FE 307 - Knitting I](L3-T1/FE-307-Knitting-I)
@@ -30,6 +31,11 @@ Here are the major tools and toys I've been using to study and take notes. Feel 
 - [WPE 312 - Wet Processing II (Practical)](L3-T1/WPE-312-Wet-Processing-II-Practical)
 - [YE 307 - Yarn Manufacturing II](L3-T1/YE-307-Yarn-Manufacturing-II)
 - [YE 308 - Yarn Manufacturing II (Practical)](L3-T1/YE-308-Yarn-Manufacturing-II-Practical)
+
+## Info & Links
+
+- [Academic Notices](L3-T1/00-Notices-Syllabus/)
+- [Google Drive](https://drive.google.com/drive/folders/1l08nOLC8tLEa-wwS3IXGNKroTRJLZO2B?usp=sharing)
 
 # 💚 License & Contribution
 
