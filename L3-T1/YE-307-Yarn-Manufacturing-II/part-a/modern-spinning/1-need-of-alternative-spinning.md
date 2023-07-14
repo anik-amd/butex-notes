@@ -40,7 +40,7 @@ Higher number of ring frame requirement will cause,
 
 ### 2. Production and spindle speed
 
-We know $Productivity = \frac{spindle\_\_speed}{TPI}$ where TPI is turns per inch.
+We know $`Productivity = \frac{spindle\:speed}{TPI}`$ where TPI is turns per inch.
 
 As TPI provides twist that gives strength to the yarn, we can't lower the number of TPI than a specific value. So the only way to increase the production is by increasing spindle speed.
 
@@ -68,15 +68,15 @@ The package size of ring frame is 1.5 kg. It is very small. So the number of dof
 
 **Spindle speed:**
 
-$Package\_\_size \propto Ring\_\_dia^{2}$
+$`Package\:size \propto Ring\:dia^{2}`$
 
-Now, $Spindle\_\_speed \propto \frac{1}{\sqrt{ring\_\_diameter}}$.
+Now, $`Spindle\:speed \propto \frac{1}{\sqrt{ring\:diameter}}`$.
 
 So larger diameter of ring will cause lower spindle speed.
 
 **Path of traveler:**
 
-Larger ring diameter require larger linear path of traveler. Here $Linear\_\_ speed \_\_ of \_\_ traveler\propto \_\_ Ring \_\_ diameter$ and $Yarn\_\_tension \propto Traveler \_\_ speed ^{2}$. As a result, spinning yarn tension will increase causes higher breakage.
+Larger ring diameter require larger linear path of traveler. Here $`Linear\: speed \: of \: traveler\propto \: Ring \: diameter`$ and $`Yarn\:tension \propto Traveler \: speed ^{2}`$. As a result, spinning yarn tension will increase causes higher breakage.
 
 **Spinning geometry**
 
