@@ -1,6 +1,6 @@
 # ⌛ Class Schedule of FE
 
-![Class Schedule of FE](img/2023-07-02-19-54-52.png)
+![Class Schedule of FE](img/class-schedule-15-7-23-update.png)
 
 # 📊 Subjects & Credits
 
@@ -9,5 +9,4 @@
 # 🔗 Other Documents
 
 - [Syllabus](L3T1-syllabus.pdf)
-
 - [Class Schedule of All Dep.](L3T3-Class-Schedule-All-Dep.pdf)
