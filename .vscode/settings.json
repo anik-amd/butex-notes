@@ -2,7 +2,8 @@
   "languageToolLinter.languageTool.ignoredWordsInWorkspace": [
     "\r\nlisapo",
     "bartack",
-    "flatlock"
+    "flatlock",
+    "lisapole"
   ],
   "typewriterAutoScroll.enable": true,
   // Also enabled globally
