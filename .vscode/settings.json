@@ -1,5 +1,6 @@
 {
   "languageToolLinter.languageTool.ignoredWordsInWorkspace": [
+    "\r\nlisapo",
     "bartack",
     "flatlock"
   ],
