@@ -18,6 +18,10 @@ Things we'll learn to manage: time, cost and quality.
 2. [Marketing Basics](./part-b/2-marketing-basics.md)
 3. Legal Issues
 
+### Bonus
+
+- [Answer Strategy](./part-a/0-answer-strategy.md)
+
 ### Reference Books
 
 1. [Principles of Marketing by Philip Kotler](https://www.goodreads.com/book/show/74280.Principles_of_Marketing)
