@@ -41,23 +41,31 @@ University is an industry as it provides educational service to the students and
 
 ### Organizational Resources
 
+Organizational resources are the physical, financial, technological, and human capacities of an organization. There are three types of organizational resources:
+
 **1. Human Resources**
 
-It refers to managerial talent and labor.
+Human resources are the people who work for an organization in jobs that produce the products or services of the business or organization. It refers to managerial talent and labor.
+
+Employees are considered in the most underrated Assets of any organization. They are important for the functioning of any organization, without which the activities of an organization will come to a standstill.
 
 HR department is responsible for hiring of human resources via screening process.
 
 **2. Financial Resources**
 
-Refers to capital investments to support ongoing and long-term operations.
+Financial resources are the funds used to acquire the human and material resources needed to provide products and services. It refers to capital investments to support ongoing and long-term operations.
+
+Financial resources are important for the functioning of any organization. Financial resources are needed to pay salaries, purchase raw materials, and to meet other day-to-day expenses.
 
 **3. Physical Assets**
 
-Refers to Raw materials. Office and production facilities, and equipment are physical assets.
+Physical assets are the tangible and intangible assets an organization uses to produce goods or services. It refers to raw materials, office, production facilities, and equipment.
+
+Physical resources are important for the functioning of the organization, since without things like equipment and inventory and manufacturing plant, it is difficult for the business to function.
 
 **4. Information**
 
-Refers to usable data.
+Refers to usable data. These data comes from the market, customers, competitors, and the organization itself. It is used to make decisions and to solve problems. It is also used to monitor and control the organization’s activities.
 
 Classified information can be good or bad for an organization depending on the situation. For example, a secret recipe that produces higher quality dye is desirable. But if there is something in the recipe that makes the dye unusable, the organization may have a hard time finding the reason for the problem, as there is no open feedback system.
 
@@ -67,7 +75,7 @@ Classified information can be good or bad for an organization depending on the s
 
 They work in areas related to getting consumers and clients to buy the organization’s products or services. They also work in new product development, promotion, and distribution.
 
-Marketing managers focuses on increasing sales and introduces products that are desired by the customers.
+Marketing managers focuses on increasing sales and introduces products that are desired by the customers. They also try to find new markets for the products and services.
 
 **2. Financial Manager**
 
@@ -84,3 +92,4 @@ Operation manager solves bottlenecks to ensure smooth production. For example, i
 # Reference
 
 - Class lecture
+- [marketing91.com](https://www.marketing91.com/four-types-of-business-resources/)
