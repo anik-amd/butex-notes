@@ -41,7 +41,7 @@ University is an industry as it provides educational service to the students and
 
 ### Organizational Resources
 
-Organizational resources are the physical, financial, technological, and human capacities of an organization. There are three types of organizational resources:
+Organizational resources are the physical, financial, informational, and human capacities of an organization. There are four types of organizational resources:
 
 **1. Human Resources**
 
@@ -67,7 +67,7 @@ Physical resources are important for the functioning of the organization, since 
 
 Refers to usable data. These data comes from the market, customers, competitors, and the organization itself. It is used to make decisions and to solve problems. It is also used to monitor and control the organization’s activities.
 
-Classified information can be good or bad for an organization depending on the situation. For example, a secret recipe that produces higher quality dye is desirable. But if there is something in the recipe that makes the dye unusable, the organization may have a hard time finding the reason for the problem, as there is no open feedback system.
+Classified information can be a blessing or curse for an organization depending on the situation. For example, a secret recipe that produces higher quality dye is desirable. But if there is something in the recipe that makes the dye unusable, the organization may have a hard time finding the reason for the problem, as there is no open feedback system.
 
 ### Kinds of Managers by Area
 
