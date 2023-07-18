@@ -89,7 +89,7 @@ They are involved with systems that create products and services for example, pr
 
 Operation manager solves bottlenecks to ensure smooth production. For example, in sewing line if a sewing a part of garments takes 10 minutes, but the next part takes 20 minutes, the operation manager will try to find a way to reduce the time of the second part. For this, he may set up two tables in the next part to split the workload.
 
-# Reference
+# References
 
 - Class lecture
 - [marketing91.com](https://www.marketing91.com/four-types-of-business-resources/)

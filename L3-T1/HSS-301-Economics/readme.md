@@ -12,7 +12,7 @@ _To be added._
 
 ## Part B: Macroeconomics
 
-_To be added_
+- [Economic Systems](./part-b/01-economic-systems.md)
 
 ## Reference Books
 
