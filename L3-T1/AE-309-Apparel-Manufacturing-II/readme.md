@@ -1,5 +1,13 @@
 # AE 309 - Apparel Manufacturing II
 
+## Part A
+
+1. [Garments washing (wet process)](./part-a/01-garments-washing.md) (CT)
+2. Apparel cutting room management
+3. Apparel sewing room management
+4. Apparel finishing room management
+5. Material Management
+
 ## Part B (SMMH)
 
 ### Contents
