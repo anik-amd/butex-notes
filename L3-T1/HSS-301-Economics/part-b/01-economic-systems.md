@@ -4,7 +4,7 @@ Economic system is the method or system of production, resource allocation & dis
 
 ## Major Types of Economic Systems
 
-### Market Economy
+### #01 Market Economy
 
 It is an economy system where the production of goods and services are decided by the laws of supply and demand. The prices of goods and services are determined in a free price system.
 
@@ -60,7 +60,7 @@ More the growth of free market economy, more the gap between the two classes.
 
 After the Great Depression of World War 2, thus the world starts to move from free market economy.
 
-### Planned Economy
+### #02 Planned Economy
 
 _Other names: Command economy, communism, socialism._
 
@@ -98,7 +98,7 @@ Equal share of output doesn’t ensure Fairness. People who work more will recei
 
 It's an unfair system against human nature. Thus, a panned economy will ultimately collapse.
 
-### Mixed Economy
+### #03 Mixed Economy
 
 _Other names: Market socialist economy, Chinese Socialism._
 
