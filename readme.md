@@ -34,7 +34,7 @@ Here are the major tools and toys I've been using to study and take notes. Feel 
 
 ## Info & Links
 
-- [Academic Notices](L3-T1/00-Notices-Syllabus/)
+- [Academic Notices & Syllabus](L3-T1/00-Notices-Syllabus/)
 - [Google Drive](https://drive.google.com/drive/folders/1l08nOLC8tLEa-wwS3IXGNKroTRJLZO2B?usp=sharing)
 - [Google Drive (previous batch)](https://drive.google.com/drive/folders/1mu8c6Xm-6P4RLc1lHojQWoGYCTWd4vGT)
 - [Official Website of FE46](https://fabricengineering.netlify.app/)
