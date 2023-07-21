@@ -2,7 +2,9 @@
 
 ## Practicals
 
-| No  | Experiment Name                                                             | Date     |
-| --- | --------------------------------------------------------------------------- | -------- |
-| 1   | [Study on plant layout of jute yarn manufacturing laboratory](./labs/01.md) | 09.07.23 |
-| 2   | [Study on OD automatic batch mixing machine](./labs/02.md)                  | 16.07.23 |
+| No  | Experiment Name                                                             | Date     | Drive Link                                                                                   |
+| --- | --------------------------------------------------------------------------- | -------- | -------------------------------------------------------------------------------------------- |
+| 1   | [Study on plant layout of jute yarn manufacturing laboratory](./labs/01.md) | 09.07.23 | [PDF](https://drive.google.com/file/d/1NCOya1rLyHv1IhmUfSicUtTZh9VTl7T4/view?usp=drive_link) |
+| 2   | [Study on OD automatic batch mixing machine](./labs/02.md)                  | 16.07.23 | [PDF](https://drive.google.com/file/d/1NDQYe_bFbBOfFPM5LoM3PPbCot-Y6P6T/view?usp=drive_link) |
+
+**Note:** Refer to drive links for complete report.

@@ -35,12 +35,15 @@ Here are the major tools and toys I've been using to study and take notes. Feel 
 ## Info & Links
 
 - [Academic Notices & Syllabus](L3-T1/00-Notices-Syllabus/)
-- [Google Drive](https://drive.google.com/drive/folders/1l08nOLC8tLEa-wwS3IXGNKroTRJLZO2B?usp=sharing)
-- [Google Drive (previous batch)](https://drive.google.com/drive/folders/1mu8c6Xm-6P4RLc1lHojQWoGYCTWd4vGT)
+- [Butex Notes Google Drive](https://drive.google.com/drive/folders/1Mr2-gktGp8hiQmyhSt8weJ7vT4zHK9Dx?usp=drive_link)
+- [Class Google Drive](https://drive.google.com/drive/folders/1l08nOLC8tLEa-wwS3IXGNKroTRJLZO2B?usp=sharing)
+- [Previous Batch's Google Drive](https://drive.google.com/drive/folders/1mu8c6Xm-6P4RLc1lHojQWoGYCTWd4vGT)
 - [Official Website of FE46](https://fabricengineering.netlify.app/)
 
 # 💚 License & Contribution
 
 This repo is under [MIT License](LICENSE), so you can to do anything with any of the files. You can use them as a reference, or copy them to your own repo, or fork this repo and make your own version.
+
+Note that the license is only applicable for files exists in the repo. Files from external sources (like Google Drive, MEGA) are not owned by me and are not included in the license. However, files on [Butex Notes Google Drive](https://drive.google.com/drive/folders/1Mr2-gktGp8hiQmyhSt8weJ7vT4zHK9Dx?usp=drive_link) are owned by me and available under the [MIT License](LICENSE).
 
 If you find this repo helpful and want to contribute, feel free to open a pull request. Your help is very much appreciated.
