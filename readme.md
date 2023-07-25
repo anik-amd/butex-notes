@@ -41,6 +41,12 @@ Here are the major tools and toys I've been using to study and take notes. Feel 
 - [Previous Batch's Google Drive](https://drive.google.com/drive/folders/1mu8c6Xm-6P4RLc1lHojQWoGYCTWd4vGT)
 - [Official Website of FE46](https://fabricengineering.netlify.app/)
 
+# ⚙️ Level 2 - Term 1
+
+## Subjects
+
+- [MMTF (Short Notes)](https://docs.google.com/document/d/e/2PACX-1vRfpJU-hgagK3XZwtgYDAhjcIRoL6TEXinfX_O6oH1T39ixqjH6YQH05Kwdh3HiSOIcu3JtgBYJNfZu/pub)
+
 # 💚 License & Contribution
 
 This repo is under [MIT License](LICENSE), so you can to do anything with any of the files. You can use them as a reference, or copy them to your own repo, or fork this repo and make your own version.
