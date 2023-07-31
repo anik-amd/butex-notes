@@ -22,7 +22,13 @@ Note that a country has limited resources.
 
 If the country employs all of its resources in the production of Breads, they can produce 30 Breads & no Shirt. If they wish to increase the production of Shirt, they need to transfer resources from Bread production to Shirt production, thereby lowering the number of Breads produced (& vice versa).
 
-![bread-shirt-list](img/bread-shirt-list.png)
+| Bread | Shirt |
+| ----- | ----- |
+| 30    | 0     |
+| 27    | 5     |
+| 21    | 9     |
+| 12    | 12    |
+| 0     | 14    |
 
 ![bread-vs-shirt-graph](img/bread-vs-shirt-graph.png)
 
