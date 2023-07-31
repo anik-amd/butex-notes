@@ -13,6 +13,7 @@ _To be added._
 ## Part B: Macroeconomics
 
 - [Economic Systems](./part-b/01-economic-systems.md)
+- [Circular Flow Model of Modern Economies](./part-b/02-circular-flow-model.md)
 
 ## Reference Books
 
