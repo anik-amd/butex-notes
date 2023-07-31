@@ -104,6 +104,49 @@ _Other names: Market socialist economy, Chinese Socialism._
 
 _Example: Sweden, Norway, Iceland, Brazil, China (since 1979), Vietnam (since 1986), Bangladesh etc._
 
+**Pivoting toward mixed economy of USA (Not for final)**
+
+Before the war world 2 USA was a free market economy heavily depends on luxurious products like automobile, TV etc. But after the war started, consumption of luxurious products are decreased.
+
+As major industries were producing luxurious products, this decreasing rate caused industrialist to lose profit. As USA economy heavily depends on private sector, the economy of the USA was in a bad shape.
+
+Another factor that contributed to economic disaster was the bloom of stock market. People were rushing to buy stocks as it's an easy way to make money even when sleeping. People were taking loans from banks to buy stocks. This created a bubble in the stock market.
+
+But the bubble started to crash when major investors were selling their stocks when the war started. This created a panic in the stock market. People started to sell their stocks to save their money. This created a chain reaction and the stock market crashed.
+
+As most of the money was loaned from banks, this market crash caused banks to go bankrupt.
+
+The gradual fall of the economy created the great depression.
+
+Now, the government was looking for a solution to save the economy. They found the solution in the equilibrium theory. The equilibrium theory was expected to normalize the situation.
+
+The then president of the USA made a conference introducing some policies. Those policies included some large government projects. Those projects were expected to create jobs and, thus, pushes the wheel of the economy.
+
+The president also decided to join the war, even though it was very late. This created new employment opportunities for people by joining the army. Which also contributed to the economy.
+
+Thus, the negative fall of the economy was prevented.
+
+**Origin of Mixed Economy**
+
+- Beginning in the 1930s, Marx’s apocalyptic expectations were largely replaced by the less violent but equally disquieting views of the English economist John Maynard Keynes.
+- Keynes argued that inadequate overall demand could lead to prolonged periods of high unemployment.
+- He argued that uncertainty caused individuals and businesses to stop spending and investing, and government must step in and spend money to get the economy back on track.
+- When the demand is inadequate, it creates high amount of unemployment. In this situation, economy falls. In moments like this, regulations from authorities and government is required to get the economy back on track.
+
+**Introduction to Mixed Economy**
+
+- Mixed economy is a combination of free market economy and planned economy.
+- Government tries to regulate the market to make fair competitiveness for fair price.
+- Authorities also take care of basic needs like education, health care etc.
+
+## Difference between Market Economy & Planned Economy
+
+### Ownership
+
+- Means of Production: land and capital, such as factories and farms, and the equipment used to create goods.
+
+![ownership-difference](img/ownership-difference.png)
+
 ## References
 
 - Class Lecture
