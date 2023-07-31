@@ -45,7 +45,7 @@ Here are the major tools and toys I've been using to study and take notes. Feel 
 
 ## Subjects
 
-- [MMTF (Short Notes)](https://docs.google.com/document/d/e/2PACX-1vRfpJU-hgagK3XZwtgYDAhjcIRoL6TEXinfX_O6oH1T39ixqjH6YQH05Kwdh3HiSOIcu3JtgBYJNfZu/pub)
+- [MMTF (Short Notes)](https://drive.google.com/file/d/1URRntyVv8v8m4LlnkPrrsx-PgjTneofv/view?usp=drive_link)
 
 # 💚 License & Contribution
 
