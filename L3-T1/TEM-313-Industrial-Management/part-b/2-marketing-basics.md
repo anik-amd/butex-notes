@@ -155,7 +155,7 @@ Marketing environment consists of the actors and forces outside marketing that a
 
 ![](img/a-simple-marketing-system.png)
 
-Sellers send goods and services and communications such as ads and direct mail to the market; in return they receive money and information such as customer attitudes and sales data.
+Sellers send goods and services and communications such as ads and direct mail to the market; in return, they receive money and information such as customer attitudes and sales data.
 
 The inner loop shows an exchange of money for goods and services; the outer loop shows an exchange of information
 
@@ -181,9 +181,9 @@ Five basic markets and their connecting flows are shown in the figure.
   - Ensures its availability and backing it with engaging communications and reliable performance.
 - Business markets:
   - Companies selling business goods and services such as chemicals, machines, and services.
-  - Advertising and websites can play a role but the sales force, the rpice and seller's reputation may play a greater role.
+  - Advertising and websites can play a role, but the sales force, the price and seller's reputation may play a greater role.
 - Global Markets:
-  - Companies in the global marketplace nevigate cultural, language, legal and political differcences while deciding which countries to enter, how to enter, how to adapt product and service features to each country, how to set prices, and how to communicate in different cultures.
+  - Companies in the global marketplace navigate cultural, language, legal and political differences while deciding which countries to enter, how to enter, how to adapt product and service features to each country, how to set prices, and how to communicate in different cultures.
 - Nonprofit and Governmental Markets:
   - Companies selling to nonprofit organizations with limited purchasing power such as churches, universities, charitable organizations, and government agencies need to price carefully.
   - Much government purchasing requires bids; buyers often focus on practical solutions and favor the lowest bid, other.
@@ -217,7 +217,7 @@ Five basic markets and their connecting flows are shown in the figure.
 ### New Consumer capabilities
 
 - Drastically changing of human lifestyle changed consumer capabilities.
-- Consumers can use the internet as a powerful information and purchasing aid. For example, bloggers are providing reviews of products, various tourist spots, restaurants to let customers know about the product or place.
+- Consumers can use the internet as powerful information and purchasing aid. For example, bloggers are providing reviews of products, various tourist spots, restaurants to let customers know about the product or place.
 - Consumers can interact with the companies directly through various platforms.
 - They can search, communicate, and purchase on
   the move.
@@ -226,7 +226,7 @@ Five basic markets and their connecting flows are shown in the figure.
 
 ### New Company Capabilities
 
-- Can use the internet as a powerful information and sales channel, including for individually differentiated goods.
+- Can use the internet as powerful information and sales channel, including for individually differentiated goods.
   – Can collect fuller and richer information about markets, customers, prospects, and competitors.
   – Can reach customers quickly and efficiently via social media and mobile marketing, sending targeted ads, coupons, and information.
 - One can not simply steal an idea.
@@ -254,40 +254,51 @@ Five basic markets and their connecting flows are shown in the figure.
 
 ## Marketing Concepts
 
-- **Production concept**
-  - Consumers will favor products that are available and highly affordable.
-  - Management should focus on improving production and distribution efficiency.
-  - Example: Ford Model T.
-- **Product concept**
-  - Consumers will favor products that offer the most quality, performance, and features.
-  - Management should focus on making continuous product improvements.
-  - Example: Apple.
-- **Selling concept**
-  - Consumers will not buy enough of the firm's products unless it undertakes a large-scale selling and promotion effort.
-  - Management should focus on finding the right customers, selling and promoting aggressively.
-  - Example: Life insurance.
-- **Marketing concept**
-  - Achieving organizational goals depends on knowing the needs and wants of target markets and delivering the desired satisfactions better than competitors do.
-  - Management should focus on delivering superior customer value to their target markets.
-  - Example: Amazon.
-- **Holistically marketing concept**
-  - The holistic marketing concept is based on the development, design, and implementation of marketing programs, processes, and activities that recognize their breadth and interdependencies.
-  - Designing marketing activities that deliver value to customers, shareholders, and society.
-  - Holistic marketing acknowledges that everything matters in marketing—and that a broad, integrated perspective is often necessary.
-  - Example: Toms shoes.
-  - Holistic marketing dimensions or components:
-    - _Internal Marketing:_ Products are given to the employees first, then to the customers. Because the employees are more likely to give honest feedback.
-      - The task of hiring, training, and motivating able employees who want to serve customers well.
-      - Includes marketing department, senior management, other departments.
-    - _Integrated Marketing:_ All the marketing activities are integrated. Price is not the only factor to the consumers but also the quality, features, etc. are also considered.
-      - Integrated marketing occurs when the marketer devises marketing activities and assembles marketing programs to create, communicate, and deliver value for consumers such that “the whole is greater than the sum of its parts.”
-      - Includes communications, products & services, channels, price.
-    - _Performance Marketing:_ Social responsibilities, legal, environmental, ethics etc. are considered.
-      - Performance Marketing Requires Understanding The Financial And Nonfinancial Returns To Business And Society From Marketing Activities And Programs.
-      - Includes sales revenue, brand & customer equity, ethics, environments, legal, social.
-    - _Relationship Marketing:_ The management must have a good relationship with the employees, suppliers, etc. Having a good relationship with customers is not enough.
-      - Relationships with people and organizations that directly or indirectly affect the success of the firm’s marketing activities.
-      - Four key constituents for relationship marketing are customers, employees, partners (channels, suppliers, distributors, dealers, agencies), financial community (shareholders, investors, analysts).
+### Production concept
+
+- Consumers will favor products that are available and highly affordable.
+- Management should focus on improving production and distribution efficiency.
+- Example: Ford Model T.
+
+### Product concept
+
+- Consumers will favor products that offer the most quality, performance, and features.
+- Management should focus on making continuous product improvements.
+- Example: Apple.
+
+### Selling concept
+
+- Consumers will not buy enough of the firm's products unless it undertakes a large-scale selling and promotion effort.
+- Management should focus on finding the right customers, selling and promoting aggressively.
+- Example: Life insurance.
+
+### Marketing concept
+
+- Achieving organizational goals depends on knowing the needs and wants of target markets and delivering the desired satisfactions better than competitors do.
+- Management should focus on delivering superior customer value to their target markets.
+- Example: Amazon.
+
+### Holistically marketing concept
+
+- The holistic marketing concept is based on the development, design, and implementation of marketing programs, processes, and activities that recognize their breadth and interdependencies.
+- Designing marketing activities that deliver value to customers, shareholders, and society.
+- Holistic marketing acknowledges that everything matters in marketing—and that a broad, integrated perspective is often necessary.
+- Example: Toms shoes.
+
+**Holistic marketing dimensions or components:**
+
+1. _Internal Marketing:_ Products are given to the employees first, then to the customers. Because the employees are more likely to give honest feedback.
+   - The task of hiring, training, and motivating able employees who want to serve customers well.
+   - Includes marketing department, senior management, other departments.
+2. _Integrated Marketing:_ All the marketing activities are integrated. Price is not the only factor to the consumers but also the quality, features, etc. are also considered.
+   - Integrated marketing occurs when the marketer devises marketing activities and assembles marketing programs to create, communicate, and deliver value for consumers such that “the whole is greater than the sum of its parts.”
+   - Includes communications, products & services, channels, price.
+3. _Performance Marketing:_ Social responsibilities, legal, environmental, ethics etc. are considered.
+   - Performance Marketing Requires Understanding The Financial And Nonfinancial Returns To Business And Society From Marketing Activities And Programs.
+   - Includes sales revenue, brand & customer equity, ethics, environments, legal, social.
+4. _Relationship Marketing:_ The management must have a good relationship with the employees, suppliers, etc. Having a good relationship with customers is not enough.
+   - Relationships with people and organizations that directly or indirectly affect the success of the firm’s marketing activities.
+   - Four key constituents for relationship marketing are customers, employees, partners (channels, suppliers, distributors, dealers, agencies), financial community (shareholders, investors, analysts).
 
 **Q:** Selling concepts vs marketing concepts?
 
