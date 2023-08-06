@@ -99,13 +99,13 @@ Demand is 1. Having the desire for a product or service, 2. Having the ability t
 
 **Segmentation:** Identification of distinct segments of buyers within a market by identifying demographic, psychographic and behavioral differences among them.
 
-**Target Markets:** The segment(s) present the greatest opportunity for a particular product or brand.
+**Target Markets:** The segment(s) present the greatest opportunity for a particular product or brand, which is the target market.
 
 ![](img/target-markets-positioning-segmentation.png)
 
 ### Value proposition, offerings, brands
 
-**Value proposition:** The set of benefits or values it promises to deliver to consumers to satisfy their needs.
+**Value proposition:** The set of benefits or values promised to deliver to consumers to satisfy their needs.
 
 **Offerings:** A combination of products, services, information, or experiences offered to a market to satisfy a need or want.
 
@@ -115,7 +115,7 @@ Demand is 1. Having the desire for a product or service, 2. Having the ability t
 
 Three types of marketing channels:
 
-**Communication:** Delivering and receiving messages from target buyers through media such as newspapers, television, radio, billboards, magazines, direct mail, telephone, fax, and internet.
+**Communication channels:** Delivering and receiving messages from target buyers through media such as newspapers, television, radio, billboards, magazines, direct mail, telephone, fax, and internet.
 
 **Distribution channels:** Displaying, selling, or delivering the physical product or service(s) to the buyer or user. It can include wholesalers, retailers, distributors, and the internet.
 
@@ -207,7 +207,7 @@ Five basic markets and their connecting flows are shown in the figure.
 - The private sector is taking some responsibility for improving living conditions, and firms all over the world have elevated the role of corporate social responsibility.
 - Large companies take social responsibilities for their own benefits.
 - Textile industries are taking responsibilities for environment pollution.
-- CSR: Country Social Responsibilities.
+- CSR: Corporate Social Responsibilities.
   - Large companies have a separate department for CSR. They handle various social responsibilities triggers human emotions.
   - Human emotions are the most powerful tool for marketing & used by the CSR.
   - Parachute oil is a good example of social responsibility. They give 1% of their profit for the education.
