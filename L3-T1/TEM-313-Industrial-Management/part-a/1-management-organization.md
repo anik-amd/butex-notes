@@ -147,7 +147,7 @@ They hold specialized managerial positions (e.g., public relations managers) dir
 - Flexible work arrangements: Work arrangements are getting more flexible with time. For example, employees can work from home, or work in shifts.
 - Empowered employees: Employees are getting more freedom to make decisions and take actions.
 
-### 2. Increased threads to security
+### 2. Increased threats to security
 
 - Risk management: Risk management is the process of identifying, assessing and controlling threats to an organization's capital and earnings. These threats, or risks, could stem from a wide variety of sources, including financial uncertainty, legal liabilities, strategic management errors, accidents and natural disasters.
 - Work life - personal life balance: Work-life balance is the balance between time spent on work and time spent on personal life. It is important to maintain a balance between work and personal life to maintain a healthy lifestyle.
@@ -194,6 +194,8 @@ They hold specialized managerial positions (e.g., public relations managers) dir
 8. Disturbance handler: The manager is responsible for taking corrective action in response to unexpected problems. For example, the manager may be required to resolve conflicts between employees.
 
 9. Resource allocator: The manager is responsible for allocating organizational resources. For example, the manager may be required to allocate the budget for the next year.
+
+10. Negotiator: The manager is responsible for representing the organization at major negotiations. For example, the manager may be required to negotiate with the suppliers.
 
 ## Skill required for manager
 
