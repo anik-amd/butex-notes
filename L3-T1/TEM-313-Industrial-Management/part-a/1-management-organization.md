@@ -35,9 +35,9 @@ University is an industry as it provides educational service to the students and
 
 ## Types of Industrial Management
 
-1. Production Management: Managing the production process of products.
-2. Employee Management
-3. Compliance Management: Maintaining compliance. For example, resolving conflicts, handle situations of equipment failures.
+1. **Production Management:** Managing the production process of products.
+2. **Employee Management**
+3. **Compliance Management:** Maintaining compliance. For example, resolving conflicts, handle situations of equipment failures.
 
 ## Organizational Resources
 
@@ -53,7 +53,7 @@ HR department is responsible for hiring of human resources via screening process
 
 **2. Financial Resources**
 
-Financial resources are the funds used to acquire the human and material resources needed to provide products and services. It refers to capital investments to support ongoing and long-term operations.
+Financial resources are the funds used to acquire the human and material resources needed to produce products and services. It refers to capital investments to support ongoing and long-term operations.
 
 Financial resources are important for the functioning of any organization. Financial resources are needed to pay salaries, purchase raw materials, and to meet other day-to-day expenses.
 
