@@ -236,15 +236,15 @@ Conditions and forces present and at work outside the organization. For example,
 
 ### Threat of new entrants
 
-Extent to and ease with which competitors can enter the marketplace of an industry. For example, the textile industry is very competitive, so it is very difficult for a new entrepreneur to set up a new dying or finishing plant.
+Extent to and ease with which competitors can enter the marketplace of an industry. For example, the textile industry is very competitive, so it is very difficult for a new entrepreneur to set up a new dyeing or finishing plant.
 
 ### Competitive rivalry
 
-Refers to competitive rivalry between firms in an industry. For example, the competitiveness between two similar dying plants can be very high.
+Refers to competitive rivalry between firms in an industry. For example, the competitiveness between two similar dyeing plants can be very high.
 
 ### Threat of substitute products or services
 
-Extent to which alternative products/services may replace the need for existing products/services. For example, new dying technology may replace the need for old methods of dying.
+Extent to which alternative products/services may replace the need for existing products/services. For example, new dyeing technology may replace the need for old methods of dyeing.
 
 ### Power of buyers
 
