@@ -8,9 +8,14 @@ export default defineConfig({
   integrations: [
     starlight({
       title: "TexNx",
+      description:
+        "Syllabus, notes on class lectures, question banks, suggestions and other resources for Textile Engineering.",
       social: {
         github: "https://github.com/anik-amd/butex-notes",
         threads: "https://threads.net/anik_amd",
+      },
+      editLink: {
+        baseUrl: "https://github.com/anik-amd/butex-notes/edit/main/texnx/",
       },
       sidebar: [
         {
@@ -30,7 +35,13 @@ export default defineConfig({
           },
         },
       ],
+      lastUpdated: true,
+      customCss: [
+        // Path to your Tailwind base styles:
+        "./src/tailwind.css",
+      ],
     }),
+
     tailwind({
       applyBaseStyles: false,
     }),
