@@ -1,8 +1,6 @@
 ---
-title: Basic Terms & Concepts
+title: 2. Basic Terms & Concepts
 ---
-
-# Basic Terms & Concepts
 
 ## Scarcity
 

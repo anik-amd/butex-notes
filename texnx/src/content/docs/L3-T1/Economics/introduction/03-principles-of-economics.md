@@ -1,8 +1,6 @@
 ---
-title: 10 Principles of Economics
+title: 3. 10 Principles of Economics
 ---
-
-# 10 Principles of Economics
 
 ## How people make decisions
 

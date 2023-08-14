@@ -1,8 +1,6 @@
 ---
-title: Introduction To Economics
+title: 1. Introduction To Economics
 ---
-
-# Introduction To Economics
 
 Economics is the study of wealth and human behavior. It is the study of how people make choices in the face of limited resources and unlimited wants.
 

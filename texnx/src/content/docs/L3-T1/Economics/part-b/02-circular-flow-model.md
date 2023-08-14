@@ -1,8 +1,6 @@
 ---
-title: Circular Flow Model of Modern Economies
+title: 2. Circular Flow Model of Modern Economies
 ---
-
-# Circular Flow Model of Modern Economies
 
 ## Production Possibilities Frontier (PPF)
 

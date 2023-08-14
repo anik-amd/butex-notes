@@ -1,8 +1,6 @@
 ---
-title: Economic Systems
+title: 1. Economic Systems
 ---
-
-# Economic Systems
 
 Economic system is the method or system of production, resource allocation & distribution of goods & services within a society or country of geographic region. These systems are used to control the factors of production.
 

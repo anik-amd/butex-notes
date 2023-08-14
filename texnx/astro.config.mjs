@@ -19,20 +19,22 @@ export default defineConfig({
       },
       sidebar: [
         {
-          label: "Guides",
-          items: [
-            // Each item here is one entry in the navigation menu.
-            {
-              label: "Example Guide",
-              link: "/guides/example/",
-            },
-          ],
+          label: "Get Start",
+          link: "/start",
+          // items: [
+          //   // Each item here is one entry in the navigation menu.
+          //   {
+          //     label: "Example Guide",
+          //     link: "/guides/example/",
+          //   },
+          // ],
         },
         {
           label: "L3-T1",
           autogenerate: {
             directory: "L3-T1",
           },
+          collapsed: true,
         },
       ],
       lastUpdated: true,
