@@ -14,6 +14,29 @@ export default defineConfig({
         github: "https://github.com/anik-amd/butex-notes",
         threads: "https://threads.net/anik_amd",
       },
+      head: [
+        {
+          tag: "link",
+          attrs: {
+            rel: "preconnect",
+            href: "https://fonts.googleapis.com",
+          },
+        },
+        {
+          tag: "link",
+          attrs: {
+            rel: "preconnect",
+            href: "https://fonts.gstatic.com",
+          },
+        },
+        {
+          tag: "link",
+          attrs: {
+            href: "https://fonts.googleapis.com/css2?family=Philosopher:wght@700&display=swap",
+            rel: "stylesheet",
+          },
+        },
+      ],
       editLink: {
         baseUrl: "https://github.com/anik-amd/butex-notes/edit/main/texnx/",
       },
