@@ -3,9 +3,14 @@ import starlight from "@astrojs/starlight";
 
 import tailwind from "@astrojs/tailwind";
 
+// import mdx from "@astrojs/mdx";
+import remarkMath from "remark-math";
+import rehypeKatex from "rehype-katex";
+
 // https://astro.build/config
 export default defineConfig({
   integrations: [
+    // mdx(),
     starlight({
       title: "TexNx",
       description:
@@ -34,6 +39,16 @@ export default defineConfig({
           attrs: {
             href: "https://fonts.googleapis.com/css2?family=Philosopher:wght@700&display=swap",
             rel: "stylesheet",
+          },
+        },
+        {
+          tag: "link",
+          attrs: {
+            rel: "stylesheet",
+            href: "https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.css",
+            integrity:
+              "sha384-Um5gpz1odJg5Z4HAmzPtgZKdTBHZdw8S29IecapCSB31ligYPhHQZMIlWLYQGVoc",
+            crossOrigin: "anonymous",
           },
         },
       ],
@@ -76,5 +91,9 @@ export default defineConfig({
     service: {
       entrypoint: "astro/assets/services/sharp",
     },
+  },
+  markdown: {
+    remarkPlugins: [remarkMath],
+    rehypePlugins: [rehypeKatex],
   },
 });
