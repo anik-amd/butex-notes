@@ -8,7 +8,7 @@ hero:
     file: ../../assets/coffee-cup.svg
   actions:
     - text: Start Learning
-      link: /guides/example/
+      link: /start
       icon: right-arrow
       variant: primary
     - text: View on GitHub
@@ -21,27 +21,25 @@ import { Card, LinkCard, CardGrid } from "@astrojs/starlight/components";
 ## Current Semester
 
 <CardGrid>
-  <LinkCard title="AM II" href="/" />
-  <LinkCard title="Knitting I" href="/" />
-  <LinkCard title="IM" href="/" />
-  <LinkCard title="WPE II" href="/" />
-
+  <LinkCard title="Economics" href="/l3-t1/economics/0-info" />
 </CardGrid>
 
 ## Tips
 
 <CardGrid stagger>
-  <Card title="Subjects" icon="pencil">
-    Pick a subject to get started.
-  </Card>
-  <Card title="Feedback" icon="add-document">
-    Provide feedback on Github.
+  <Card title="Search" icon="forward-slash">
+    Find anything - subjects, topics, subtopics with powerful search.
   </Card>
   <Card title="Dark Mode" icon="setting">
-    Turn on dark mode to save your eyes.
+    Turn on dark mode to save your eyes on midnight study sessions.
   </Card>
-  <Card title="Star" icon="star">
-    Give star on Github & share with your classmates.
+  <Card title="Share" icon="star">
+    Support my work by sharing with your classmates & giving a ⭐ star on
+    GitHub.
+  </Card>
+  <Card title="Feedback & Contribute" icon="star">
+    Found an error or have some feedback? Click on the ✏️ edit button at the
+    bottom of each note to edit directly on GitHub.
   </Card>
 </CardGrid>
 
