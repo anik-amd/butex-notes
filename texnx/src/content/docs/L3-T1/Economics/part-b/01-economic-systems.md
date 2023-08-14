@@ -161,33 +161,33 @@ Who or what determines the type and quantity of goods and services produced in a
 
 - Surplus: An amount of something left over when requirements have been met; an excess of production or supply.
 
-![production-decisions](img/production-decisions.png)
+![production-decisions](./img/production-decisions.png)
 
 ### Incentive Mechanism
 
 How are people motivated to work and produce goods and services.
 
-![incentive-mechanism](img/incentive-mechanism.png)
+![incentive-mechanism](./img/incentive-mechanism.png)
 
 ### Structure of Governance
 
 How political decisions on economic issues are made and what is the structure of government.
 
-![structure-of-governance](img/structure-of-governance.png)
+![structure-of-governance](./img/structure-of-governance.png)
 
 ### Income Equality and Social Safety Nets
 
 - How large is the income gap between the poor, middle class, and the rich?
 - What policies are in place to protect the unemployed, the sick, and the elderly?
 
-![Income Equality](img/2023-07-31-22-28-59.png)
+![Income Equality](./img/2023-07-31-22-28-59.png)
 
 - **Progressive taxation:** In a mixed economy, the government often implements progressive taxation, where higher-income individuals are taxed at higher rates. The revenue generated from these taxes can be used to fund social programs aimed at reducing income inequality, such as welfare, healthcare, and education.
 - **Social safety nets:** Mixed economies tend to have more extensive social safety nets to support those with lower incomes. These safety net programs can include unemployment benefits, food assistance, and housing support, which can help mitigate the effects of income inequality.
 
 ### Gist
 
-![gist-diff](img/gist-diff.png)
+![gist-diff](./img/gist-diff.png)
 
 ## References
 
