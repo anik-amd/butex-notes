@@ -147,13 +147,13 @@ Thus, the negative fall of the economy was prevented.
 
 - Means of Production: land and capital, such as factories and farms, and the equipment used to create goods.
 
-![ownership-difference](img/ownership-difference.png)
+![ownership-difference](./img/ownership-difference.png)
 
 ### Allocation Decisions
 
 How the decision of resource & factor distribution is made.
 
-![Allocation Decisions](img/allocation-decisions.png)
+![Allocation Decisions](./img/allocation-decisions.png)
 
 ### Production Decisions
 
