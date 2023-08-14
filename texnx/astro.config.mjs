@@ -29,9 +29,9 @@ export default defineConfig({
           ],
         },
         {
-          label: "Reference",
+          label: "L3-T1",
           autogenerate: {
-            directory: "reference",
+            directory: "L3-T1",
           },
         },
       ],
