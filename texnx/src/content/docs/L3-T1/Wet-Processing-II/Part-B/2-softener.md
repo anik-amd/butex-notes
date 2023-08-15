@@ -17,8 +17,7 @@ components.
 
 ### How softener improves softness, sewability and tear strength of fabric
 
-1. Softeners act as fiber lubricants and reduce the coefficient of friction between fibers, yarns, and between a fabric and an object (an abrasive object or a person’s hand). Whenever yarns slide past each other more easily, the fabric will be more pliable and have better drape. If some of the lubricant transfers to the skin
-   and the fabric is more pliable, the fabric will feel soft and silky.
+1. Softeners act as fiber lubricants and reduce the coefficient of friction between fibers, yarns, and between a fabric and an object (an abrasive object or a person’s hand). Whenever yarns slide past each other more easily, the fabric will be more pliable and have better drape. If some of the lubricant transfers to the skin and the fabric is more pliable, the fabric will feel soft and silky.
 
 2. The softening effect is mostly effective on the textile surface. In addition, small softener molecules may penetrate into the fibres and provide an internal plasticization of the polymers by reducing the glass transition temperature.
 
@@ -109,6 +108,10 @@ Anionic softeners are composed of a high molecular weight fatty chain with their
 3. Anionics tend to be sensitive to water hardness and to electrolytes in finish baths.
 4. Anionics are incompatible in some finish baths containing cationically stabilized emulsions.
 
+## Comparison between Cationic & Anionic Softener
+
+![Comparison between Cationic & Anionic Softener](img/cationic-vs-anionic-softener.png)
+
 ## Nonionic Softener
 
 Nonionic softeners do not carry any electrical charge and therefore do not possess any distinctive substantivity. Such
@@ -156,6 +159,45 @@ to cellulose.
 ![Octadecyl Ethylene Urea](./img/mechanism-reactive-3.png)
 
 The reactive softener may be applied as a nonionic softener without curing, when only a temporary softening effect is produced which is not fast to washing. This may be applied by pad dry technique.
+
+## Curing Over Drying
+
+> During operation of reactive softener curing is preffered over drying.
+
+In the context of a reactive softener, the term "curing" often refers to a process where the softener is allowed to react with the fibers of a fabric or material to create a durable and longer-lasting softening effect. On the other hand, "drying" typically refers to the removal of moisture from the material.
+Curing is preferred over drying in the operation of reactive softeners for a few reasons:
+
+1. **Chemical Reaction:** Reactive softeners are designed to chemically bond with the fibers of the material. This chemical bonding process enhances the softening effect and makes it more durable, even after multiple wash cycles. Curing allows the softener to fully react and establish these bonds, leading to a more effective and longer-lasting softening effect.
+
+2. **Longer Lasting Softness:** Curing helps the softener penetrate deeper into the fabric fibers, resulting in a softness that remains even after subsequent washes. This is in contrast to surface-applied softeners that may get washed away quickly.
+
+3. **Reduced Environmental Impact:** Reactive softeners typically require lower amounts of water and energy during application, as the curing process can often be done at lower temperatures compared to the high heat required for drying.
+
+4. **Consistency:** Curing allows for a more consistent and uniform softening effect across the entire fabric. This is important for maintaining the quality and appearance of the material.
+
+5. **Time-Efficient:** While curing might take a bit longer than simply drying the material, the improved and longer-lasting softness achieved through curing can reduce the need for frequent reapplication of softeners, saving time and effort in the long run.
+
+6. **Less Damage to Fibers:** High heat from drying can potentially damage the fibers of certain fabrics, leading to a decrease in overall fabric quality and softness. Curing at lower temperatures minimizes this risk.
+
+## Prevention of Strength Fall of Cotton During Curing in Acidic Medium?
+
+Cotton fibers can experience strength loss when exposed to acidic conditions during curing. This weakening can be attributed to the degradation of the cellulose structure in cotton fibers. To prevent strength loss during curing in an acidic medium following steps and precautions are taken:
+
+1. **pH Adjustment:** Before curing, adjust the pH of the curing solution to a level that is less likely to cause degradation. Aim for a slightly acidic to neutral pH range (pH 4.5 - 7) to minimize the risk of cellulose degradation.
+
+2. **Buffering Agents:** Incorporate buffering agents or pH stabilizers into the curing solution. These additives help maintain a stable pH throughout the curing process and can mitigate the negative effects of acidity on the cotton fibers.
+
+3. **Use Mild Acids:** If an acidic medium is necessary for the curing process, choose milder acids that are less likely to cause severe degradation of cellulose. Organic acids like citric acid or acetic acid can be gentler on cotton fibers compared to strong mineral acids.
+
+4. **Temperature Control:** Higher temperatures can accelerate chemical reactions, including the degradation of cellulose. Control the temperature during curing to minimize the risk of thermal degradation of cotton fibers.
+
+5. **Shorter Curing Time:** Limit the exposure of cotton fibers to the acidic medium by reducing the curing time. This can help minimize the extent of degradation while still allowing the softener to react with the fibers.
+
+6. **Testing and Optimization:** Before applying any curing process to a larger batch of cotton, conduct small-scale tests to determine the optimal curing conditions. This can involve varying pH levels, curing times, and temperatures to identify the conditions that provide the best softening effect while minimizing strength loss.
+
+7. **Neutralization:** After the curing process is complete, consider implementing a neutralization by rinsing the treated cotton with water or a weak alkaline solution to remove residual acidity and prevent any ongoing degradation.
+
+8. **Use of Specialty Softeners:** Specialty softeners designed specifically for cotton that minimize the risk of strength loss during curing.
 
 ## Silicone Softener
 
@@ -214,3 +256,11 @@ polyether, namely, polyethyleneoxide (PEO) and/or polypropyleneoxide segments as
 - PH = 4-5
 - Drying: $120-140\degree C$ for 2-3 minutes
 - Application process: Padding
+
+## References
+
+- Class Lecture
+
+## Contributions
+
+- Shakib Hasan Shuvo
