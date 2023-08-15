@@ -1,5 +1,5 @@
 ---
-title: Apparel Washing (Dry Process)
+title: 3. Apparel Washing (Dry Process)
 ---
 
 ![](./img/2023-07-10-21-36-19.png)

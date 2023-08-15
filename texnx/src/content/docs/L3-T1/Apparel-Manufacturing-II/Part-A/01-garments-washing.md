@@ -1,5 +1,5 @@
 ---
-title: Garments Washing
+title: 1. Garments Washing
 ---
 
 ## Chapter Outline
