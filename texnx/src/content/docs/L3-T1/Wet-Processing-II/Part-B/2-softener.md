@@ -108,3 +108,109 @@ Anionic softeners are composed of a high molecular weight fatty chain with their
 2. Anionics will not exhaust from a bath, they must be physically deposited on the fabric.
 3. Anionics tend to be sensitive to water hardness and to electrolytes in finish baths.
 4. Anionics are incompatible in some finish baths containing cationically stabilized emulsions.
+
+## Nonionic Softener
+
+Nonionic softeners do not carry any electrical charge and therefore do not possess any distinctive substantivity. Such
+products are applied by means of forced application (i.e. usually in padding mangle procedures).
+
+Nonionic softeners can be
+combined universally, are stable to temperature and do not show yellowing. This is the reason that this product class is
+perfect for finishing optically brightened, highly white articles.
+
+They have a general formula, $R(OC_2H_4)_nOH$ or $R(C_2H_4)_nOOH$ (where
+R=alkyl), and contain different nonionic components such as fatty alcohols, ethoxylated fatty alcohols and fatty amines,
+paraffins and oxidized polyethylene waxes as active ingredients.
+
+It should be noted that In case of nonionic softener each softener has different function.
+
+![Nonionic Softener](./img/nonionic-softener.png)
+
+## Amphoteric Softeners
+
+Amphoteric products give an average handle, are normally compatible with white and give the fabric a good hydrophilicity, as well as excellent antistatic properties. They have poor durability in washing.
+
+Amphoteric softeners compounds are compatible with human skin and are often used for hygiene articles. They are widely used for finishing of terrycloth towels.
+
+![Amphoteric Softeners](./img/amphoteric-softeners.png)
+
+## Reactive Softeners
+
+The softeners described above are merely deposited on the materials (i.e. they are washed fast). Reactive softening agents can partially react with cellulose on account of their chemical structure and thus give permanent effects.
+
+### N-methylol Reactive Group
+
+N-methylol reactive group can react with cellulose fiber in the presence of acidic catalyst like magnesium chloride, ammonium dihydrogen phosphate etc. at elevated temperature (140-150 °C).
+
+![N-methylol Reactive Group](./img/mechanism-reactive-1.png)
+
+### Octadecyl Ethylene Urea
+
+Octadecyl ethylene urea reacts with the cellulosic hydroxyl forming a stable bond, durable to laundering.
+
+![Octadecyl Ethylene Urea](./img/mechanism-reactive-2.png)
+
+In addition, some polymerization of octadecyl ethylene urea takes place and this polymer gets hydrogen bonded
+to cellulose.
+
+![Octadecyl Ethylene Urea](./img/mechanism-reactive-3.png)
+
+The reactive softener may be applied as a nonionic softener without curing, when only a temporary softening effect is produced which is not fast to washing. This may be applied by pad dry technique.
+
+## Silicone Softener
+
+Silicone softener is one kind of non-ionic softener. They are insoluble in water, and therefore must be applied on fabrics after emulsification or dissolution in organic solvents.
+
+### Unique Properties of Silicone
+
+Due to thier inorganic–organic structure and the flexibility of the silicone bonds, silicones have unique properties:
+
+- Thermal oxidative stability
+- Low temperature flowability
+- Low viscosity change against temperature
+- High compressibility
+- Low surface tension
+- Hydrophobicity
+- Good electric properties
+- Low fire hazard
+
+### Advantages
+
+- One of the key features of silicone materials is their effectiveness at very low concentrations. Very small amounts of silicones are required to achieve the desired properties, which can improve the cost of textile operations and ensure a minimum environmental impact.
+- Normally, due to their difficult emulsion, they were supplied as macroemulsions (emulsion drop diameter: 1–200 μm) and impart a smooth feel. The silicone drops
+  do not penetrate textile materials and remain mostly on the surface to impart water repellency.
+- The mechanism of softening by silicone treatment is due to a flexible film formation. The deposition of flexible film reduces interfibre and interyarn friction. Thus the silicone finishing of textile produces an exceptional soft handle.
+
+### Conversion of chlorosilane to silanol and polysiloxane
+
+![Conversion of chlorosilane to silanol and polysiloxane](./img/conversion.png)
+
+### Orientation of silicone softener on fiber surface
+
+![Orientation of silicone softener on fiber surface](./img/orientation.png)
+
+### Examples of Silicone Softeners
+
+![Examples of Silicone Softeners](./img/silicone-softener-ex-1.png)
+
+![Examples of Silicone Softeners](./img/silicone-softener-ex-2.png)
+
+### Hydrophilic Silicones
+
+Poor wettability is highly undesirable for various textile materials like towels, underwear, sportswear, etc. Most of the highly effective softeners, including silicones, impart a considerable hydrophobicity to textiles.
+
+The wettability of silicone-treated goods can be improved in a number of ways. The first generation of hydrophilic silicones, available commercially for decades, contains
+polyether, namely, polyethyleneoxide (PEO) and/or polypropyleneoxide segments as a side chain or as part of the main polymer backbone, aminopolyether siloxane and polyether siloxane. These silicones with polyglycol groups show excellent hydrophilicity and act almost as wetting agents.
+
+![Hydrophilic Silicones](./img/hydrophilic-silicones.png)
+
+## Important Softener Characteristics by Class
+
+![Important Softener Characteristics by Class](./img/softener-characteristics-by-class.png)
+
+## Softener Application Recipe
+
+- Softener = 20-25 g/L
+- PH = 4-5
+- Drying: $120-140\degree C$ for 2-3 minutes
+- Application process: Padding
