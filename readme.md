@@ -8,7 +8,7 @@ Syllabus, notes on class lectures, question banks, suggestions and other resourc
 
 Visit [TexNx](https://texnx.pages.dev) to view the web version of this repo.
 
-### Github
+### GitHub
 
 You can browse this repo on GitHub or clone and open with a code editor or markdown viewer. Most contents are written in Markdown, but there are some PDFs and other files too, so you might also need a PDF viewer and a browser.
 
@@ -18,7 +18,7 @@ You can browse this repo on GitHub or clone and open with a code editor or markd
 - [Starlight](https://starlight.astro.build/) - Documentation generator.
 - [TailwindCSS](https://tailwindcss.com/) - CSS framework.
 
-## 🚀 Project Structure
+## 🧩 Project Structure
 
 Inside `/texnx` contains the following folders and files:
 
@@ -37,6 +37,19 @@ Inside `/texnx` contains the following folders and files:
 ```
 
 Starlight looks for `.md` or `.mdx` files in the `src/content/docs/` directory. Each file is exposed as a route based on its file name.
+
+## 🧞 Commands
+
+All commands are run from `/texnx`, from a terminal:
+
+| Command                   | Action                                           |
+| :------------------------ | :----------------------------------------------- |
+| `npm install`             | Installs dependencies                            |
+| `npm run dev`             | Starts local dev server at `localhost:3000`      |
+| `npm run build`           | Build your production site to `./dist/`          |
+| `npm run preview`         | Preview your build locally, before deploying     |
+| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
+| `npm run astro -- --help` | Get help using the Astro CLI                     |
 
 # ⚒️ Tools and Toys
 
