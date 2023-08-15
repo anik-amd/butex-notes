@@ -6,6 +6,7 @@ import tailwind from "@astrojs/tailwind";
 // import mdx from "@astrojs/mdx";
 import remarkMath from "remark-math";
 import rehypeKatex from "rehype-katex";
+import remarkMermaid from "astro-diagram/remark-mermaid";
 
 const site = "https://texnx.pages.dev/";
 
@@ -43,17 +44,16 @@ export default defineConfig({
             rel: "stylesheet",
           },
         },
-        // added from cloudflare pages settings
-        // {
-        //   tag: "link",
-        //   attrs: {
-        //     rel: "stylesheet",
-        //     href: "https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.css",
-        //     integrity:
-        //       "sha384-Um5gpz1odJg5Z4HAmzPtgZKdTBHZdw8S29IecapCSB31ligYPhHQZMIlWLYQGVoc",
-        //     crossOrigin: "anonymous",
-        //   },
-        // },
+        {
+          tag: "link",
+          attrs: {
+            rel: "stylesheet",
+            href: "https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.css",
+            integrity:
+              "sha384-Um5gpz1odJg5Z4HAmzPtgZKdTBHZdw8S29IecapCSB31ligYPhHQZMIlWLYQGVoc",
+            crossOrigin: "anonymous",
+          },
+        },
         {
           tag: "meta",
           attrs: { property: "og:image", content: site + "og.jpg?v=1" },
@@ -62,14 +62,15 @@ export default defineConfig({
           tag: "meta",
           attrs: { property: "twitter:image", content: site + "og.jpg?v=1" },
         },
-        {
-          tag: "script",
-          attrs: {
-            src: "https://static.cloudflareinsights.com/beacon.min.js",
-            "data-cf-beacon": "{'token': 'f5b59f8e7d0442e3bf7b5a79ae9db493'}",
-            defer: true,
-          },
-        },
+        // added from cloudflare pages settings
+        // {
+        //   tag: "script",
+        //   attrs: {
+        //     src: "https://static.cloudflareinsights.com/beacon.min.js",
+        //     "data-cf-beacon": "{'token': 'f5b59f8e7d0442e3bf7b5a79ae9db493'}",
+        //     defer: true,
+        //   },
+        // },
       ],
       editLink: {
         baseUrl: "https://github.com/anik-amd/butex-notes/edit/main/texnx/",
@@ -112,7 +113,7 @@ export default defineConfig({
     },
   },
   markdown: {
-    remarkPlugins: [remarkMath],
+    remarkPlugins: [remarkMath, remarkMermaid],
     rehypePlugins: [rehypeKatex],
   },
 });
