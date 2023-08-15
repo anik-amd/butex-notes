@@ -20,7 +20,7 @@ You can browse this repo on GitHub or clone and open with a code editor or markd
 
 ## 🧩 Project Structure
 
-Inside `/texnx` contains the following folders and files:
+Inside `texnx/` contains the following folders and files:
 
 ```
 .
@@ -40,7 +40,7 @@ Starlight looks for `.md` or `.mdx` files in the `src/content/docs/` directory. 
 
 ## 🧞 Commands
 
-All commands are run from `/texnx`, from a terminal:
+All commands are run from `texnx/`, from a terminal:
 
 | Command                   | Action                                           |
 | :------------------------ | :----------------------------------------------- |
