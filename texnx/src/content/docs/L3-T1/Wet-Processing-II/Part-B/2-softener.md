@@ -110,7 +110,7 @@ Anionic softeners are composed of a high molecular weight fatty chain with their
 
 ## Comparison between Cationic & Anionic Softener
 
-![Comparison between Cationic & Anionic Softener](img/cationic-vs-anionic-softener.png)
+![Comparison between Cationic & Anionic Softener](./img/cationic-vs-anionic-softener.png)
 
 ## Nonionic Softener
 
