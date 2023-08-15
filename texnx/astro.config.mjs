@@ -61,6 +61,14 @@ export default defineConfig({
           tag: "meta",
           attrs: { property: "twitter:image", content: site + "og.jpg?v=1" },
         },
+        {
+          tag: "script",
+          attrs: {
+            src: "https://static.cloudflareinsights.com/beacon.min.js",
+            "data-cf-beacon": "{'token': 'f5b59f8e7d0442e3bf7b5a79ae9db493'}",
+            defer: true,
+          },
+        },
       ],
       editLink: {
         baseUrl: "https://github.com/anik-amd/butex-notes/edit/main/texnx/",
