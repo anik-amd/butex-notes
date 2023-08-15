@@ -7,6 +7,8 @@ import tailwind from "@astrojs/tailwind";
 import remarkMath from "remark-math";
 import rehypeKatex from "rehype-katex";
 
+const site = "https://texnx.pages.dev/";
+
 // https://astro.build/config
 export default defineConfig({
   integrations: [
@@ -50,6 +52,14 @@ export default defineConfig({
               "sha384-Um5gpz1odJg5Z4HAmzPtgZKdTBHZdw8S29IecapCSB31ligYPhHQZMIlWLYQGVoc",
             crossOrigin: "anonymous",
           },
+        },
+        {
+          tag: "meta",
+          attrs: { property: "og:image", content: site + "og.jpg?v=1" },
+        },
+        {
+          tag: "meta",
+          attrs: { property: "twitter:image", content: site + "og.jpg?v=1" },
         },
       ],
       editLink: {
