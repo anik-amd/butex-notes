@@ -4,7 +4,39 @@ Syllabus, notes on class lectures, question banks, suggestions and other resourc
 
 # 🚀 Getting Started
 
+### Live Website
+
+Visit [TexNx](https://texnx.pages.dev) to view the web version of this repo.
+
+### Github
+
 You can browse this repo on GitHub or clone and open with a code editor or markdown viewer. Most contents are written in Markdown, but there are some PDFs and other files too, so you might also need a PDF viewer and a browser.
+
+# ⭐ Tech Stack
+
+- [AstroJS](https://astro.build/) - Static site generator.
+- [Starlight](https://starlight.astro.build/) - Documentation generator.
+- [TailwindCSS](https://tailwindcss.com/) - CSS framework.
+
+## 🚀 Project Structure
+
+Inside `/texnx` contains the following folders and files:
+
+```
+.
+├── public/
+├── src/
+│   ├── assets/
+│   ├── content/
+│   │   ├── docs/
+│   │   └── config.ts
+│   └── env.d.ts
+├── astro.config.mjs
+├── package.json
+└── tsconfig.json
+```
+
+Starlight looks for `.md` or `.mdx` files in the `src/content/docs/` directory. Each file is exposed as a route based on its file name.
 
 # ⚒️ Tools and Toys
 
@@ -35,7 +67,6 @@ Here are the major tools and toys I've been using to study and take notes. Feel 
 ## Info & Links
 
 - [Academic Notices & Syllabus](L3-T1/00-Notices-Syllabus/)
-- [Class Test Updates](./L3-T1/00-Notices-Syllabus/ct.md)
 - [Butex Notes Google Drive](https://drive.google.com/drive/folders/1Mr2-gktGp8hiQmyhSt8weJ7vT4zHK9Dx?usp=drive_link)
 - [Class Google Drive](https://drive.google.com/drive/folders/1l08nOLC8tLEa-wwS3IXGNKroTRJLZO2B?usp=sharing)
 - [Previous Batch's Google Drive](https://drive.google.com/drive/folders/1mu8c6Xm-6P4RLc1lHojQWoGYCTWd4vGT)
