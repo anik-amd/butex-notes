@@ -43,16 +43,17 @@ export default defineConfig({
             rel: "stylesheet",
           },
         },
-        {
-          tag: "link",
-          attrs: {
-            rel: "stylesheet",
-            href: "https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.css",
-            integrity:
-              "sha384-Um5gpz1odJg5Z4HAmzPtgZKdTBHZdw8S29IecapCSB31ligYPhHQZMIlWLYQGVoc",
-            crossOrigin: "anonymous",
-          },
-        },
+        // added from cloudflare pages settings
+        // {
+        //   tag: "link",
+        //   attrs: {
+        //     rel: "stylesheet",
+        //     href: "https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.css",
+        //     integrity:
+        //       "sha384-Um5gpz1odJg5Z4HAmzPtgZKdTBHZdw8S29IecapCSB31ligYPhHQZMIlWLYQGVoc",
+        //     crossOrigin: "anonymous",
+        //   },
+        // },
         {
           tag: "meta",
           attrs: { property: "og:image", content: site + "og.jpg?v=1" },
