@@ -1,17 +1,18 @@
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
-
 import tailwind from "@astrojs/tailwind";
 
 // import mdx from "@astrojs/mdx";
 import remarkMath from "remark-math";
 import rehypeKatex from "rehype-katex";
 import remarkMermaid from "astro-diagram/remark-mermaid";
+import sitemap from "@astrojs/sitemap";
 
 const site = "https://texnx.pages.dev/";
 
 // https://astro.build/config
 export default defineConfig({
+  site: "https://texnx.pages.dev/",
   integrations: [
     // mdx(),
     starlight({
@@ -56,11 +57,17 @@ export default defineConfig({
         },
         {
           tag: "meta",
-          attrs: { property: "og:image", content: site + "og.jpg?v=1" },
+          attrs: {
+            property: "og:image",
+            content: site + "og.jpg?v=1",
+          },
         },
         {
           tag: "meta",
-          attrs: { property: "twitter:image", content: site + "og.jpg?v=1" },
+          attrs: {
+            property: "twitter:image",
+            content: site + "og.jpg?v=1",
+          },
         },
         {
           tag: "meta",
@@ -69,6 +76,14 @@ export default defineConfig({
             content: "jZfi26mSRYix6gJuBfE1PIiONkIb26wl7AFE070pvUw",
           },
         },
+        {
+          tag: "link",
+          attrs: {
+            rel: "sitemap",
+            href: "/sitemap-index.xml",
+          },
+        },
+
         // added from cloudflare pages settings
         // {
         //   tag: "script",
@@ -79,6 +94,7 @@ export default defineConfig({
         //   },
         // },
       ],
+
       editLink: {
         baseUrl: "https://github.com/anik-amd/butex-notes/edit/main/texnx/",
       },
@@ -108,10 +124,10 @@ export default defineConfig({
         "./src/tailwind.css",
       ],
     }),
-
     tailwind({
       applyBaseStyles: false,
     }),
+    sitemap(),
   ],
   // Process images with sharp: https://docs.astro.build/en/guides/assets/#using-sharp
   image: {
