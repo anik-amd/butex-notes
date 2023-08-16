@@ -5,6 +5,9 @@ settings:
   excludeLinksFromLockfile: false
 
 dependencies:
+  '@astrojs/sitemap':
+    specifier: ^2.0.2
+    version: 2.0.2
   '@astrojs/starlight':
     specifier: ^0.7.1
     version: 0.7.1(astro@2.10.5)
@@ -137,6 +140,13 @@ packages:
 
   /@astrojs/sitemap@1.4.0:
     resolution: {integrity: sha512-uTK77kcg7iTiik+u7rTGG6vK4ZWTfYMaVnFndOVQrLzaE5xivmQgIbVLtlN+xRcME5n/m6vYQFJmogFR+elGCw==}
+    dependencies:
+      sitemap: 7.1.1
+      zod: 3.21.4
+    dev: false
+
+  /@astrojs/sitemap@2.0.2:
+    resolution: {integrity: sha512-dFWtdFwN8kxDiqIxF8T8ODqsUr6hG+EQlFEqm+3oQkhAkucF9QkYLM5Q72mEbYytkL4jvKyHbW1u10T5sWBZew==}
     dependencies:
       sitemap: 7.1.1
       zod: 3.21.4
