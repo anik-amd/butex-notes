@@ -62,6 +62,13 @@ export default defineConfig({
           tag: "meta",
           attrs: { property: "twitter:image", content: site + "og.jpg?v=1" },
         },
+        {
+          tag: "meta",
+          attrs: {
+            name: "google-site-verification",
+            content: "jZfi26mSRYix6gJuBfE1PIiONkIb26wl7AFE070pvUw",
+          },
+        },
         // added from cloudflare pages settings
         // {
         //   tag: "script",
