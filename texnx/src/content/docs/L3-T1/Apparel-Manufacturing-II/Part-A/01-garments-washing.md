@@ -21,7 +21,34 @@ title: 1. Garments Washing
 
 ## Washing Definition
 
-Garments washing is a technology which cleans and changes outlook or appearance of garments.
+Garment washing is a technology which is applied to change or modify the outlook, appearance, comfortability, design and cleaning of garments.
+
+## Types of Garments Washing
+
+**1. Wet process/Chemical process:**
+
+- Normal wash/ garment wash/rinse wash
+- Pigment wash
+- Caustic wash
+- Enzyme wash
+- Stone wash
+- Stone enzyme wash
+- Super white wash
+- Bleach wash
+- Acid wash
+- Silicon wash
+- Soft wash
+
+**2. Dry process/Mechanical process:**
+
+- Sand blasting
+- Whisker
+- Hands brush
+- Over all wrinkles
+- Permanent wrinkle
+- Broken and tagging
+- Grinding and destroy
+- PP spray and PP sponging etc.
 
 Two types: dry process, where no chemical or washing machines are used, and wet process, where chemical and washing machines are used.
 
@@ -32,10 +59,54 @@ Two types: dry process, where no chemical or washing machines are used, and wet 
 - Give soft hand feel.
 - To improve outlook or appearance of garments.
 - To improve color fastness and abrasion resistance property.
+- To increase the brightness of garments.
+- To increase the smoothness of garments.
+- To make directly wearable after purchase.
+- To remove harmful materials from garments.
 
-## Wet Process flow chart
+## Wet Process
 
-### Standard flow process of apparel washing
+### Washing Chemicals
+
+- Enzyme: Used in enzyme washing & hydrolyses the cellulose to remove color to produce fading effect.
+- Detergent: Used in normal wash to remove dirt, dust, sizes and waste materials from garments.
+- Acetic Acid ($CH_3COOH$): Neutralize the garments in alkaline condition.
+- Anti staining agent
+- Bleaching agent: Oxidizing agent.
+- Sodium Hyposluphite ($Na_2S_2O_3$): Neutralize the garments in acidic condition.
+- Caustic Soda ($NaOH$): Used in caustic wash to remove color from garments.
+- Soda Ash($Na_2CO_3$)
+- Sodium bicarbonate ($NaHCO_3$)
+- Potassium Permanganate ($KMnO_4$): Used in Acid wash with Pumice stone for color out from the garments.
+- Softener: Imparts soft and silky feel.
+- Micro emulsion silicon: Gives durable softness, lubricity, elastic handle, anti-pilling.
+- Sodium Chloride ($NaCl$): It helps to exhaust dye in to the fiber.
+- Buffer: Controls the pH of the bath.
+- Hydrogen peroxide ($H_2O_2$)
+- Stabilizer
+- Fixing agent
+- Optical brightener
+- Resin
+- Sodium Meta Bi Sulphite ($Na_2S_2O_5$)
+- Desizing agent
+
+### Machines Used in Washing Section
+
+- Washing machine: Washing machine is the machine used to wash the various types of clothes without applying any physical efforts.
+  - Types of washing machine:
+    1. Front Loading Washing Machine.
+    2. Side Loading Washing Machine.
+    3. Vertical loading washing machine.
+    4. Horizontal loading washing machine.
+    5. Stone Washing Machine.
+    6. Semi-automatic washing machine.
+    7. Fully automatic machine.
+- Hydro extractor
+- Dryer
+- Industrial Oven
+- Boiler
+
+### Standard Flow Process of Apparel Washing
 
 ```mermaid
     flowchart TD
@@ -50,7 +121,7 @@ Two types: dry process, where no chemical or washing machines are used, and wet 
         --> id9[Delivery]
 ```
 
-### Normal Wash
+### Flow Process of Normal Wash (Wet Process)
 
 _Standard recipe_
 
@@ -68,13 +139,189 @@ _Standard recipe_
         --> id10[Delivery]
 ```
 
-## Dry Process
+**Objectives:**
 
-1. Whiskering
-2. Hand brush
-3. P.P. spray
-4. P.P. Sponge
-5. Tackling or Tagging
-6. Tyeing in
-7. Grinding
-8. Destroy
+- To remove dust, dirt, oil spot, impurities from the garments.
+- To remove size materials from the garments.
+- For soft feeling to wear the garments after purchasing.
+- To achieve buyer washing standard.
+
+## Enzyme Wash
+
+Enzymes are bio chemical substances that behave as catalysts toward specific reactions.
+
+### Advantages or Objectives of Enzyme Wash
+
+- "Bio-Polishing" effect of cotton/denim.
+- Enzyme attack as chemically not mechanically for this reason low damage/wastage.
+- For soft feeling to wear the garment. Enzyme attacks more the surface of the fabrics and gives a very smooth surface.
+- To remove the size materials from the garments.
+- To remove the starch presents on the garments fabrics.
+- To achieve the buyer reference sample.
+- To increase the color fastness & rubbing fastness.
+- Enzyme improves the anti-pilling properties.
+
+### Why Enzyme wash is preferred?
+
+1. Enzyme attacks more the surface of the fabrics and gives a very smooth surface.
+2. Enzyme attack as chemically not mechanically for this reason low damage/wastage.
+3. Operate at low temperature.
+4. Replace harsh chemicals.
+5. Eco-friendly.
+
+### Acid Enzyme vs Neutral Enzyme
+
+![Acid Enzyme vs Neutral Enzyme](./img/acide-enzyme-vs-neutral-enzyme.png)
+
+### Flow Process
+
+```mermaid
+    flowchart TD
+      id1[Batch Selection]
+      --> id2[Garments Loading]
+      --> id3[Machine Running]
+      --> id4[Desizing]
+      --> id5["Add Stone (only for stone enzyme wash)"]
+      --> id6[Add Enzyme]
+      --> id7[Add Acetic Acid]
+      --> id8[Sotenting]
+      --> id9[Hydroextracting]
+      --> id10[Drying]
+      --> id11[Finishing]
+      --> id12[Delivery]
+
+```
+
+### Recipe
+
+![](./img/enzyme-wash-1.png)
+![](./img/enzyme-wash-1-2.png)
+![](./img/enzyme-wash-3.png)
+![](./img/enzyme-wash-4.png)
+![](./img/enzyme-wash-5.png)
+![](./img/enzyme-wash-6.png)
+
+## Bleach Wash
+
+### Objectives
+
+- Destroy natural color.
+- Rubbing fastness remove.
+- Color fading.
+
+### Flow Process
+
+```mermaid
+    flowchart TD
+      id1[Batch Selection]
+      --> id2[Garments Loading]
+      --> id3[Machine Running]
+      --> id4[Desizing]
+      --> id5[Bleaching]
+      --> id6["Add Enzyme (only when requiement is no faiding)"]
+      --> id7[Neutralization]
+      --> id8[Sotenting]
+      --> id9[Hydroextracting]
+      --> id10[Drying]
+      --> id11[Finishing]
+      --> id12[Delivery]
+
+```
+
+### Recipe
+
+![](./img/bleach-wash-recipe-1-3.png)
+![](./img/bleach-wash-recipe-4-10.png)
+
+### Enzyme vs Bleach Wash
+
+![](./img/enzyme-vs-bleach-wash.png)
+
+## Acid Wash
+
+### Use of Pumice Stone
+
+During Acid wash, pumice stones are used. By the action of pumice stones, irregular fading effect is developed on the heavy garments like denims, thick canvas/twill, and sweater.
+
+The pumice stones act as a brushing action on the garment fabric surface. The area where more brushing action takes place; more discolor or fading effect is developed and the area where less brushing action takes place less fading effect will be developed.
+
+The multi-layer fabric areas like – collar, calf, pocket, placket, side seam etc. area will be brushed more than the single layer areas.
+As a result irregular fading affect will be developed on the garments' fabric surface. In this way, fading affect may be developed on the
+garments by acid wash technique.
+
+**Usage of KMnO4 with pumice stone:**
+
+Pumice stones are soaked with KMnO4 ; chemical stays on stone surface which give effect.
+
+Without stone only KMnO4 will give uniform fading effect which is not desirable ; for irregular fading stone is used. As in machine, stone comes with surface contact of fabric irregularly & irregular fading is obtained which is desirable.
+
+**Advantages of pumice stone:**
+
+- Desired vintage effect on garments can be easily achieved by using pumice stones.
+- Washed garments can achieve more soft effect by using pumice stones.
+
+**Disadvantages of pumice stone:**
+
+- Can be damaged washing machine due to stone and machine abrasion.
+- Garments can be damaged due to stone and machine abrasion.
+
+### Objectives:
+
+- Irregular fading.
+- Buyer requirement.
+- For soft feeling to wear the garments i.e. to improve softness.
+- To increase rubbing fastness.
+- To remove dust, dirt, oil spot, impurities from the garments.
+- To remove size materials from the garments.
+
+### Flow Process
+
+```mermaid
+    flowchart TD
+      id1[Batch Selection]
+      --> id2[Garments Loading]
+      --> id3[Machine Running]
+      --> id4[Desizing]
+      --> id5[Hydroextracting]
+      --> id6[Drying]
+      --> id7[Load pretreated pumice stone]
+      --> id8[Machine Running]
+      --> id9[Garments Loading]
+      --> id10[Unload Garments]
+      --> id11[Load garments in another machine]
+      --> id12[Neutralization]
+      --> id13[Sotenting]
+      --> id14[Hydroextracting]
+      --> id15[Drying]
+      --> id16[Finishing]
+      --> id17[Delivery]
+
+```
+
+### Questions
+
+**Q1: After loading pumice stone why machine runs before loading garments?**
+
+Stone needs to soak with chemical KMnO4; then put in to machine. Before loading garments machine runs so that chemical can spread into
+machine uniformly. After that it is ready for operation.
+
+**Q2: Why load garments into another machine?**
+
+Previous machine is filled with KMnO 4 which is an oxidizing agent. It produces fading in fabric. Next step is neutralization ; if same machine is used we need to remove KMnO4 first.
+It will be a time consuming process. So use of another machine will be time efficient.
+
+### Recipe
+
+![](./img/acid-wash-recipe-1.png)
+![](./img/acid-wash-recipe-2.png)
+![](./img/acid-wash-recipe-3.png)
+
+### Factors of Fading
+
+- RPM of machine.
+  - More RPM = More fabric surface will be fade.
+  - Less RPM = Less fabric surface will be fade.
+- Squeeze & pressure (knit)
+- Less squeeze bandage ; less chemical ; less effect
+- Time
+- Concentration
