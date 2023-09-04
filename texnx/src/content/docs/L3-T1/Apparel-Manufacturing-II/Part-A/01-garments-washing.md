@@ -220,7 +220,7 @@ Enzymes are bio chemical substances that behave as catalysts toward specific rea
       --> id3[Machine Running]
       --> id4[Desizing]
       --> id5[Bleaching]
-      --> id6["Add Enzyme (only when requiement is no faiding)"]
+      --> id6["Add Enzyme (only when requiement is no fading)"]
       --> id7[Neutralization]
       --> id8[Sotenting]
       --> id9[Hydroextracting]
@@ -247,7 +247,7 @@ During Acid wash, pumice stones are used. By the action of pumice stones, irregu
 
 The pumice stones act as a brushing action on the garment fabric surface. The area where more brushing action takes place; more discolor or fading effect is developed and the area where less brushing action takes place less fading effect will be developed.
 
-The multi-layer fabric areas like – collar, calf, pocket, placket, side seam etc. area will be brushed more than the single layer areas.
+The multi-layer fabric areas like – collar, cuff, pocket, placket, side seam etc. area will be brushed more than the single layer areas.
 As a result irregular fading affect will be developed on the garments' fabric surface. In this way, fading affect may be developed on the
 garments by acid wash technique.
 
