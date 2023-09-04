@@ -412,3 +412,7 @@ _To be added._
 - Use limited softener
 - Use anti-staining agent
 - Use better dye
+
+## Contributions
+
+- Shakib Hasan Shuvo
