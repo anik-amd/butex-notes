@@ -171,7 +171,7 @@ Enzymes are bio chemical substances that behave as catalysts toward specific rea
 
 ### Acid Enzyme vs Neutral Enzyme
 
-![Acid Enzyme vs Neutral Enzyme](img/acide-enzyme-vs-neutral-enzyme.png)
+![Acid Enzyme vs Neutral Enzyme](./img/acide-enzyme-vs-neutral-enzyme.png)
 
 ### Flow Process
 
@@ -194,12 +194,12 @@ Enzymes are bio chemical substances that behave as catalysts toward specific rea
 
 ### Recipe
 
-![](img/enzyme-wash-1.png)
-![](img/enzyme-wash-1-2.png)
-![](img/enzyme-wash-3.png)
-![](img/enzyme-wash-4.png)
-![](img/enzyme-wash-5.png)
-![](img/enzyme-wash-6.png)
+![](./img/enzyme-wash-1.png)
+![](./img/enzyme-wash-1-2.png)
+![](./img/enzyme-wash-3.png)
+![](./img/enzyme-wash-4.png)
+![](./img/enzyme-wash-5.png)
+![](./img/enzyme-wash-6.png)
 
 ## Bleach Wash
 
@@ -230,12 +230,12 @@ Enzymes are bio chemical substances that behave as catalysts toward specific rea
 
 ### Recipe
 
-![](img/bleach-wash-recipe-1-3.png)
-![](img/bleach-wash-recipe-4-10.png)
+![](./img/bleach-wash-recipe-1-3.png)
+![](./img/bleach-wash-recipe-4-10.png)
 
 ### Enzyme vs Bleach Wash
 
-![](img/enzyme-vs-bleach-wash.png)
+![](./img/enzyme-vs-bleach-wash.png)
 
 ## Acid Wash
 
@@ -312,9 +312,9 @@ It will be a time consuming process. So use of another machine will be time effi
 
 ### Recipe
 
-![](img/acid-wash-recipe-1.png)
-![](img/acid-wash-recipe-2.png)
-![](img/acid-wash-recipe-3.png)
+![](./img/acid-wash-recipe-1.png)
+![](./img/acid-wash-recipe-2.png)
+![](./img/acid-wash-recipe-3.png)
 
 ### Factors of Fading
 
