@@ -325,3 +325,90 @@ It will be a time consuming process. So use of another machine will be time effi
 - Less squeeze bandage ; less chemical ; less effect
 - Time
 - Concentration
+
+## Flow process of pigment, caustic & silicon wash
+
+![](./img/pigment-caustic-silicon-flow-process.png)
+
+## Pigment Wash
+
+Its similar to normal washing process and applicable for pigment dyed fabric.
+
+### Objectives
+
+- To wash pigment dyed fabric.
+- To give color fading effect.
+- To remove dust, dirt, oil spot, impurities from the garments.
+- To remove size materials from the garments.
+- For soft feeling to wear the garment after purchasing.
+- To increase the color and rubbing fastness.
+- To achieve buyer washing standard.
+
+### Recipe
+
+![](./img/pigment-recipe-1.png)
+![](./img/pigment-recipe-2.png)
+
+## Caustic Wash
+
+Normally printing on fabric is done after pre-treatment that is desizing, scouring & bleaching.
+
+But for caustic wash, printing is done without pre-treatment.
+
+### Objectives
+
+- To fading/old looking effect on Garment and seam abrasion affection seam area.
+- To remove the size materials, starch from the garments.
+- Dust, dirt, oil spot, impurities etc. are removed that may come from during process i.e. cutting, stitching and the back process.
+- To increase the color fastness & rubbing fastness.
+- For soft feeling to wear the garments.
+- To increase the hairiness on garments this increases its old look appearance.
+- To achieve the buyer reference sample.
+
+### Recipe
+
+![](./img/caustic-receipe-1.png)
+
+## Silicon Wash
+
+Silicon washes are generally done on all type of fabrics.
+
+### Objectives
+
+- It gives durable softness, elastic handle,
+- It helps to anti pilling affects, dimensional stability, tear resistance.
+- It helps to fabrics to be cut and sewn more easily allows.
+- Improve wears and easy care properties.
+
+### Recipe
+
+![](./img/silicon-wash-recipe-1.png)
+
+## Super White Wash
+
+_To be added._
+
+## Washing Parameter/Condition
+
+![](./img/washing-parameter.png)
+
+## Washing Faults
+
+- Bleach spot
+- Over grinding
+- Shade variation
+- Crease mark
+- After wash hole
+- Poor brightness
+- Poor handfeel
+- High low effect
+- High hairness
+- Over blasting
+- Spot on garments
+- Bad smell due to poor neutralization
+
+## Prevent of back staining
+
+- Use limited softener
+- Use anti-staining agent
+- Use better dye
