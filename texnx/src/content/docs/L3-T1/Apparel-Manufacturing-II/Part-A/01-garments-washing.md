@@ -346,8 +346,8 @@ Its similar to normal washing process and applicable for pigment dyed fabric.
 
 ### Recipe
 
-![](img/pigment-recipe-1.png)
-![](img/pigment-recipe-2.png)
+![](./img/pigment-recipe-1.png)
+![](./img/pigment-recipe-2.png)
 
 ## Caustic Wash
 
@@ -367,7 +367,7 @@ But for caustic wash, printing is done without pre-treatment.
 
 ### Recipe
 
-![](img/caustic-receipe-1.png)
+![](./img/caustic-receipe-1.png)
 
 ## Silicon Wash
 
@@ -382,7 +382,7 @@ Silicon washes are generally done on all type of fabrics.
 
 ### Recipe
 
-![](img/silicon-wash-recipe-1.png)
+![](./img/silicon-wash-recipe-1.png)
 
 ## Super White Wash
 
@@ -390,7 +390,7 @@ _To be added._
 
 ## Washing Parameter/Condition
 
-![](img/washing-parameter.png)
+![](./img/washing-parameter.png)
 
 ## Washing Faults
 
