@@ -27,6 +27,8 @@ Garment washing is a technology which is applied to change or modify the outlook
 
 **1. Wet process/Chemical process:**
 
+_where no chemical or washing machines are used._
+
 - Normal wash/ garment wash/rinse wash
 - Pigment wash
 - Caustic wash
@@ -41,6 +43,8 @@ Garment washing is a technology which is applied to change or modify the outlook
 
 **2. Dry process/Mechanical process:**
 
+_where chemical and washing machines are used._
+
 - Sand blasting
 - Whisker
 - Hands brush
@@ -49,8 +53,6 @@ Garment washing is a technology which is applied to change or modify the outlook
 - Broken and tagging
 - Grinding and destroy
 - PP spray and PP sponging etc.
-
-Two types: dry process, where no chemical or washing machines are used, and wet process, where chemical and washing machines are used.
 
 ## Objectives or requirements of Garments Washing
 
@@ -75,19 +77,19 @@ Two types: dry process, where no chemical or washing machines are used, and wet 
 - Bleaching agent: Oxidizing agent.
 - Sodium Hyposluphite ($Na_2S_2O_3$): Neutralize the garments in acidic condition.
 - Caustic Soda ($NaOH$): Used in caustic wash to remove color from garments.
-- Soda Ash($Na_2CO_3$)
-- Sodium bicarbonate ($NaHCO_3$)
+- Soda Ash($Na_2CO_3$): Creates alkaline medium for the breakdown of pigment dye.
+- Sodium bicarbonate ($NaHCO_3$): Used in washing plant in the bleach bath with bleaching powder for Denim Light shade because it can easily color fade with in shot time.
 - Potassium Permanganate ($KMnO_4$): Used in Acid wash with Pumice stone for color out from the garments.
 - Softener: Imparts soft and silky feel.
 - Micro emulsion silicon: Gives durable softness, lubricity, elastic handle, anti-pilling.
 - Sodium Chloride ($NaCl$): It helps to exhaust dye in to the fiber.
 - Buffer: Controls the pH of the bath.
-- Hydrogen peroxide ($H_2O_2$)
-- Stabilizer
-- Fixing agent
-- Optical brightener
-- Resin
-- Sodium Meta Bi Sulphite ($Na_2S_2O_5$)
+- Hydrogen peroxide ($H_2O_2$): Breaks up and gives some per hydroxhyl ion, which discolor the coloring materials and as a result fading effect is developed.
+- Stabilizer: used to protect break of hydrogen peroxide and it works in bath smoothly.
+- Fixing agent: Used for unfixed dye to fix on fabrics.
+- Optical brightener: used for improve the brightness of garments.
+- Resin: Used for the creation of semi-permanent creases in denim and other cellulose fabrics.
+- Sodium Meta Bi Sulphite ($Na_2S_2O_5$): Used in the washing plant to neutralized the garment from potassium permanganate.
 - Desizing agent
 
 ### Machines Used in Washing Section
@@ -113,7 +115,7 @@ Two types: dry process, where no chemical or washing machines are used, and wet 
         id1[Batch selection]
         --> id2[Garments loading]
         --> id3[Machine running]
-        --> id4["Add chemical (changes based on process type)"]
+        --> id4["Add chemical (based on process type)"]
         --> id5[Softening]
         --> id6[Hydroextracting]
         --> id7[Drying]
@@ -121,16 +123,16 @@ Two types: dry process, where no chemical or washing machines are used, and wet 
         --> id9[Delivery]
 ```
 
-### Flow Process of Normal Wash (Wet Process)
+## Normal Wash (Wet Process)
 
-_Standard recipe_
+### Flow Process
 
 ```mermaid
     flowchart TD
         id1[Batch selection]
         --> id2[Garments loading]
         --> id3[Machine running]
-        --> id4[desizing]
+        --> id4[Desizing]
         --> id5["Detergent (if necessary)"]
         --> id6[Softening]
         --> id7[Hydroextracting]
@@ -139,7 +141,7 @@ _Standard recipe_
         --> id10[Delivery]
 ```
 
-**Objectives:**
+### Objectives
 
 - To remove dust, dirt, oil spot, impurities from the garments.
 - To remove size materials from the garments.
@@ -412,3 +414,7 @@ _To be added._
 - Use limited softener
 - Use anti-staining agent
 - Use better dye
+
+## Contributions
+
+- Shakib Hasan Shuvo
