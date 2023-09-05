@@ -318,6 +318,8 @@ It will be a time consuming process. So use of another machine will be time effi
 ![](./img/acid-wash-recipe-2.png)
 ![](./img/acid-wash-recipe-3.png)
 
+_Note: Bleach wash & acid wash's neutralization is same except sodium hyposulphite is used in acid wash instead of sodium meta bi sulphate._
+
 ### Factors of Fading
 
 - RPM of machine.
