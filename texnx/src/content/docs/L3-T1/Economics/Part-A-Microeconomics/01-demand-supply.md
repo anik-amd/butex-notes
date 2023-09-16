@@ -9,7 +9,7 @@ title: 1. Market Forces of Demand & Supply
 - **Price vs. Quantity demanded:**
   ![](./img/price-vs-quantity.png)
 - **Demand equation or function:**
-  - $Q_D = 12 - 2P$ or $P = 6 - \frac{1}{2}Q_D$
+  - $Q_D = 12 - 2P$ or $P = 6 - \frac{1}{2}Q_D$. Note that here $Q_D$ and $P$ are inversely related (opposite sign).
   - Where, $Q_D$ is the quantity demanded and $P$ is the price of ice cream cones.
   - $y = mx+c$ where $m$ is the slope which indicates if price rises by 1 unit, quantity of cones demanded falls by 2 units.
 - **Intercepts:**
@@ -46,7 +46,7 @@ title: 1. Market Forces of Demand & Supply
 - **Price vs. Quantity supplied:**
   ![](./img/price-vs-quantity-supplied.png)
 - **Supply equation or function:**
-  - $Q_S = P - 1$ or $P = Q_S + 1$
+  - $Q_S = P - 1$ or $P = Q_S + 1$. Note that here $Q_S$ and $P$ are directly related (same sign).
   - Slope 1 indicates if price rises by 1 unit, quantity of cones supplied rises by 1 unit.
 
 ### Individual supply vs. Market supply
