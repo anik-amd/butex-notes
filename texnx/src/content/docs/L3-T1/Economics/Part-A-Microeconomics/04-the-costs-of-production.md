@@ -72,6 +72,39 @@ title: 4. The Costs of Production
 - Relationship between Short Run & Long Run ATC:
   ![](./img/relationship-between-short-run-long-run-atc.png)
 
+## Returns to Scale
+
+**Returns to scale** shows what happens to production in the long run.
+
+- **Increasing returns to scale:** if inputs are doubled, output
+  becomes more than double.
+- **Constant returns to scale:** if inputs are doubled, output
+  doubles.
+- **Decreasing returns to scale:** if inputs are doubled, output
+  becomes less than double.
+
+## Economies & Diseconomies of Scale
+
+**Economies & Diseconomies of Scale** shows what happens to cost in the long run.
+
+- **Economics of Scale:** It occurs when long run ATC falls as the quantity of output increases.
+  - **Causes:**
+    - Due to specialization among workers, average labor
+      cost of producing each unit of that good falls.
+    - Firms can use highly productive machinery, which can
+      bring down the average cost of producing each unit.
+    - Firms can adapt different cost saving measures when it
+      goes to large scale production.
+  - In the long run, ATC will not always be falling with increasing quantity of output. After reaching a certain minimum level, average cost will stay the same as output rises. The firm will face constant returns to scale in production in this phase.
+- **Diseconomies of Scale:** It occurs when long run ATC rises as the quantity of output rises. (Getting even bigger is now expensive).
+  - Firms incur diseconomies of scale because of
+    coordination problems that often occur in a large
+    organization.
+  - When companies become too big, they then need to
+    hire managers, buy land. At that phase, increasing
+    output is causing the long run ATC to rise.
+- Concepts like economies of scale help producers to make decisions. They don’t tell producers exactly how much to produce.
+
 ## Example Math
 
 - **Math 01:** If $TC = Q^3 - 6Q^2 + 240Q + 750$ then what is VC, FC, AVC, AFC & MC? At which production quantity ATC will be minimum, and what would be the value of ATC?
