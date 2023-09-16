@@ -73,5 +73,5 @@ title: 2. Equilibrium in the Market
     ![](./img/equilibrium-demand-rise-supply-fall-demand-more.png)
     - If rise in demand has a greater effect compared to fall in supply, equilibrium quantity increases ($Q_1 > Q_0$).
   - When supply shift more than the demand,
-    ![](img/equilibrium-demand-rise-supply-fall-supply-more.png)
+    ![](./img/equilibrium-demand-rise-supply-fall-supply-more.png)
     - If fall in supply has a greater effect compared to rise in demand, equilibrium quantity decreases ($Q_1 < Q_0$).
