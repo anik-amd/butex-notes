@@ -11,5 +11,8 @@
   ],
   "typewriterAutoScroll.enable": true,
   // Also enabled globally
-  "languageToolLinter.languageTool.disabledRules": "WHITESPACE_RULE"
+  "languageToolLinter.languageTool.disabledRules": "WHITESPACE_RULE",
+  "zenMode.centerLayout": false
+  // "zenMode.centerLayout": true,
+  // "zenMode.fullScreen": true
 }
