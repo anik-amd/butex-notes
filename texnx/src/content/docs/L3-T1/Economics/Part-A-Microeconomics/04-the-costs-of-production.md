@@ -108,16 +108,28 @@ title: 4. The Costs of Production
 ## Example Math
 
 - **Math 01:** If $TC = Q^3 - 6Q^2 + 240Q + 750$ then what is VC, FC, AVC, AFC & MC? At which production quantity ATC will be minimum, and what would be the value of ATC?
-  - $TC = Q^3 - 6Q^2 + 240Q + 750$
-  - $VC = Q^3 - 6Q^2 + 240Q$
-  - $FC = 750$
-  - $AVC = \frac{VC}{Q} = \frac{Q^3 - 6Q^2 + 240Q}{Q} = Q^2 - 6Q + 240$
-  - $AFC = \frac{FC}{Q} = \frac{750}{Q}$
-  - $MC = \frac{d}{dQ}(TC) = \frac{d}{dQ}(Q^3 - 6Q^2 + 240Q + 750) = 3Q^2 - 12Q + 240$
-  - $ATC = \frac{TC}{Q} = \frac{Q^3 - 6Q^2 + 240Q + 750}{Q} = Q^2 - 6Q + 240 + \frac{750}{Q}$
-  - At minimum ATC, $MC = ATC$
-    - => $3Q^2 - 12Q + 240 = Q^2 - 6Q + 240 + \frac{750}{Q}$
-    - => $2Q^2 - 6Q - \frac{750}{Q} = 0$
-    - => $Q^3 - 3Q^2 - 375 = 0$
-    - => $Q = 15$
-  - At minimum ATC Q = 15, so cost = $Q^2 - 6Q + 240 + \frac{750}{Q} = 15^2 - 6 \times 15 + 240 + \frac{750}{15} = 375$
+
+$$
+TC = Q^3 - 6Q^2 + 240Q + 750 \\
+VC = Q^3 - 6Q^2 + 240Q \\
+FC = 750 \\
+AVC = \frac{VC}{Q} = \frac{Q^3 - 6Q^2 + 240Q}{Q} = Q^2 - 6Q + 240 \\
+AFC = \frac{FC}{Q} = \frac{750}{Q} \\
+MC = \frac{d}{dQ}(TC) = \frac{d}{dQ}(Q^3 - 6Q^2 + 240Q + 750) = 3Q^2 - 12Q + 240 \\
+ATC = \frac{TC}{Q} = \frac{Q^3 - 6Q^2 + 240Q + 750}{Q} = Q^2 - 6Q + 240 + \frac{750}{Q}
+$$
+
+At minimum ATC,
+
+$$
+MC = ATC \\
+\Rightarrow 3Q^2 - 12Q + 240 = Q^2 - 6Q + 240 + \frac{750}{Q} \\
+\Rightarrow 2Q^2 - 6Q - \frac{750}{Q} = 0 \\
+\Rightarrow Q^3 - 3Q^2 - 375 = 0 \\
+\Rightarrow Q = 15 \\
+$$
+
+At minimum ATC $Q = 15$, so cost = $Q^2 - 6Q + 240 + \frac{750}{Q} = 15^2 - 6 \times 15 + 240 + \frac{750}{15} = 375$
+
+$$
+$$
