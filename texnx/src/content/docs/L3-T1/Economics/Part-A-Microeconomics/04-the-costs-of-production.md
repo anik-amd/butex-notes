@@ -133,3 +133,7 @@ At minimum ATC $Q = 15$, so cost = $Q^2 - 6Q + 240 + \frac{750}{Q} = 15^2 - 6 \t
 
 $$
 $$
+
+## Acknowledgement
+
+- **Reference:** Class Lecture

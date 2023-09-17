@@ -14,10 +14,7 @@ title: 5.1.2 Production Cost Exercise Math
 ![](./img/production-cost-exercise-math-01-solution-03.png)
 ![](./img/production-cost-exercise-math-01-solution-04.png)
 
-## Reference
+## Acknowledgement
 
-- Class Lecture
-
-## Contributors
-
-- Shakib Hasan Shuvo
+- **Reference:** Class Lecture
+- **Contributor:** Shakib Hasan Shuvo

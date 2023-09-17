@@ -189,10 +189,7 @@ How political decisions on economic issues are made and what is the structure of
 
 ![gist-diff](./img/gist-diff.png)
 
-## References
+## Acknowledgement
 
-- Class Lecture
-
-## Contributors
-
-- Shakib Hasan Shuvo (ID: 2020-1-2-030)
+- **Reference:** Class Lecture
+- **Contributor:** Shakib Hasan Shuvo

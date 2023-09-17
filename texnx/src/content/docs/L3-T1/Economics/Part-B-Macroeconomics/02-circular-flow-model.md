@@ -147,6 +147,6 @@ The country doesn’t have enough resource to achieve that production combinatio
 
 These situations can be caused by natural disaster or war.
 
-## References
+## Acknowledgement
 
-- Class Lecture
+- **Reference:** Class Lecture

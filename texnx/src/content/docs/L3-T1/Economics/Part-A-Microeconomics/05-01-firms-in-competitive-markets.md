@@ -129,6 +129,6 @@ If a competitive firm produces a quantity of ‘Q’, and sells unit at the mark
 
 - Similarly, a short run economic loss due to decrease in market demand causes the exit of some existing firms. Fewer number of firms causes fall in supply which in turn raises the market price & restores long run equilibrium where firms again earn zero economic profit.
 
-## Reference
+## Acknowledgement
 
-- Class Lecture
+- **Reference:** Class Lecture

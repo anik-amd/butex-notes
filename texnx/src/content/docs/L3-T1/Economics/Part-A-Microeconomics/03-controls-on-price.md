@@ -53,3 +53,7 @@ title: 3. Controls on Price
   - TS is less than equilibrium.
   - Deadweight loss is created due to the price ceiling.
   - Again, a non-binding price ceiling has no effect on the market outcome.
+
+## Acknowledgement
+
+- **Reference:** Class Lecture
