@@ -1,5 +1,5 @@
 ---
-title: 5.1 Firms in Competitive Markets
+title: 5.1. Firms in Competitive Markets
 ---
 
 ## Introduction
