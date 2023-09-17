@@ -30,6 +30,6 @@ In modern days, the nation and border of countries creates a complexity in globa
 
 - On personal life, economics allows us to make informed decisions about our life. It gives us answer to many questions like _why and where to invest money, how to invest money, how to save money, etc._
 
-## Reference
+## Acknowledgement
 
-- Class Lecture
+- **Reference:** Class Lecture

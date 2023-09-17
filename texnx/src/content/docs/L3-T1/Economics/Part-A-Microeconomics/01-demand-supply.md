@@ -65,6 +65,6 @@ title: 1. Market Forces of Demand & Supply
 - **Expectation of sellers:** When seller expects a higher price in future, his/her supply for that product decreases at present & supply curve shifts to the left.
 - **Market size/Number of sellers:** When more suppliers enter in the market & want to sell a product/service, at that time, market supply for that good/service rises & the supply curve shifts to the right.
 
-# References
+## Acknowledgement
 
-- Class Lecture
+- **Reference:** Class Lecture

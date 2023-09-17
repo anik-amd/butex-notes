@@ -72,6 +72,6 @@ title: 3. 10 Principles of Economics
   - More hiring means lower unemployment.
 - This line of reasoning leads to one final economy-wide trade-off: a short-run trade-off between inflation and unemployment.
 
-# Reference
+## Acknowledgement
 
-- [Principles of Economics by N. Gregory Mankiw](https://www.goodreads.com/book/show/1753460.Principles_of_Economics) - Chapter 1
+- **Reference** [Principles of Economics by N. Gregory Mankiw](https://www.goodreads.com/book/show/1753460.Principles_of_Economics) - Chapter 1
