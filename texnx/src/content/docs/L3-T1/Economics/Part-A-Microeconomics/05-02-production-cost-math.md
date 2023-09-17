@@ -1,5 +1,5 @@
 ---
-title: 5.1.2 Production Cost Exercise Math
+title: 5.2 Production Cost Exercise Math
 ---
 
 ## Math 01
