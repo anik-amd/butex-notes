@@ -37,8 +37,7 @@ If a competitive firm produces a quantity of ‘Q’, and sells unit at the mark
 
 ![](./img/profit-maximization-for-the-competitive-firm.png)
 
-- In a competitive market, unit price for product remains the same any quantity.
-- Hence, marginal revenue (revenue from an extra gallon sold) is constant.
+- In a competitive market, unit price for product remains the same any quantity. Hence, marginal revenue is constant.
 - Here, the change in profit is the change in revenue minus the change in cost, which is MR-MC.
 - MC is increasing with production while MR remains constant
 - For the initial quantities of production (such as $Q_1$ ), MR>MC (MC curve lies below the MR curve). Thus, change in profit is positive.
@@ -71,7 +70,7 @@ If a competitive firm produces a quantity of ‘Q’, and sells unit at the mark
 - The firm produces $Q_0$ at which $P=MC$.
 - $TR = P_0 \times Q_0$
 - $TC= ATC \times Q_0$
-- $Profit = (P_0 -ATC) \times Q_0$, which is shown by the green area.
+- $Profit = (P_0 -ATC) \times Q_0$.
 
 ## Shut Down
 
