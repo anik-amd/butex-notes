@@ -6,7 +6,6 @@ import tailwind from "@astrojs/tailwind";
 import remarkMath from "remark-math";
 import rehypeKatex from "rehype-katex";
 import remarkMermaid from "astro-diagram/remark-mermaid";
-import sitemap from "@astrojs/sitemap";
 
 const site = "https://texnx.pages.dev/";
 
@@ -76,13 +75,13 @@ export default defineConfig({
             content: "jZfi26mSRYix6gJuBfE1PIiONkIb26wl7AFE070pvUw",
           },
         },
-        {
-          tag: "link",
-          attrs: {
-            rel: "sitemap",
-            href: "/sitemap-index.xml",
-          },
-        },
+        // {
+        //   tag: "link",
+        //   attrs: {
+        //     rel: "sitemap",
+        //     href: "/sitemap-index.xml",
+        //   },
+        // },
 
         // added from cloudflare pages settings
         // {
@@ -127,7 +126,6 @@ export default defineConfig({
     tailwind({
       applyBaseStyles: false,
     }),
-    sitemap(),
   ],
   // Process images with sharp: https://docs.astro.build/en/guides/assets/#using-sharp
   image: {
