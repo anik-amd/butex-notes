@@ -1,10 +1,10 @@
 ---
-title: Introduction to Jute Manufacturing
+title: 1. Introduction to Jute Manufacturing
 ---
 
 Jute is a natural cellulosic bast fiber. It's a long staple fiber.
 
-Jute consists of bast overlapped in such a way that they produce continuous filaments. So they are called bast fibers.
+Jute consists of bast overlapped in such a way that they produce continuous filaments. They provide strength as well as flexibility to the stem of the plant. So they are called bast fibers.
 
 Jute is consists of 65.2% cellulose.
 
@@ -47,9 +47,9 @@ _Jutton is the blend of jute and cotton._
 
 ## Jute yarn count
 
-**Pounds/spyndle:** weight in pounds per 1440 yds of jute yarn is called pounds/spyndle.
+**Pounds/spyndle:** weight in pounds per 1440 yds of jute yarn is called pounds/spyndle. Here 1 spyndle= 14400 yards.
 
-For example, if 1440 length of yarn weights 1 pound, then the count is 1 lbs/spyndle.
+For example, if 1440 length of yarn weights 8 pound, then the count is 8 lbs/spyndle.
 
 ## Classification of jute
 
@@ -64,17 +64,23 @@ Two types of jute are mainly used,
 
 **According to geographical distribution**
 
-1. **JAT:** Best quality, finest, higher length.
-2. **District:** Moderate quality. Two types,
+1. **JAT:** Best quality, good color, luster, finest, higher length. Grows in Mymensingh, Dhaka and Comilla
+2. **District:** Moderate quality, Close to jat in quality. This jute fiber is not uniform in textures and strands. Its color varies from light cream to dull gray. Its length is shorter. Two types,
    1. **Hard:** Higher quality.
    2. **Soft:** Lower quality.
-3. **Northern:** Worst quality.
+3. **Northern:** Somewhat inferior quality. This jute fiber is dull colored fluffy hair and barky. Generally medium length and weak.
 
 ## Properties of Jute
 
 1. **Fiber surface and appearance** is yellow to brown to dirty color. Lusty appearance.
-2. **Tensile strength:** Not stronger than flax.
+2. **Tensile strength:** Not stronger than flax because of the
+   irregularities in the thickness of cell wall.
 3. **Elongation:** Breaks at 1.7%.
 4. **Elastic Properties:** Stiff fiber. Do not return to its original length after completely relaxed.
 5. **Specific gravity:** 1.5.
 6. **Length:** 1-4 meter.
+
+## Flow Chart of Jute Manufacturing
+
+![](./img/flow-chart-jute-manufacturing.png)
+![](./img/flow-chart-jute-manufacturing-spinning.png)
