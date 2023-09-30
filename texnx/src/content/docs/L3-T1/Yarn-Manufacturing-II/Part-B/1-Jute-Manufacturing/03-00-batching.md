@@ -4,9 +4,9 @@ title: 3. Batching
 
 In the jute yarn manufacturing, batching refers to all the preparatory steps undertaken before the carding of jute fibre.
 
-## Objects of Batching:
+## Objects of Batching
 
-_Or, importance of Batching:_
+_Or, importance of batching_
 
 - To help the fiber movement freely during processing.
 - To get expected dampness and flexibility.
@@ -24,7 +24,7 @@ Opening of jute bale and separation of stiff root jute and making of _morah_ acc
 
 - **Emulsion:** Mixture of two immiscible liquids where one is dispersed in small globules, on the other hand addition of a third substance brings stability.
 - Water, oil and emulsifier are the ingredients for a batching emulsion.
-- **Jute Emulsion:** A mixture of some lubricating agents which is applied on jute fiber to make the fiber soften and flexible.
+- **Jute Batching Emulsion:** A mixture of some lubricating agents which is applied on jute fiber to make the fiber soften and flexible.
 
 ### General recipe
 
@@ -68,15 +68,17 @@ Opening of jute bale and separation of stiff root jute and making of _morah_ acc
   - It should be colorless and odorless.
   - It should be free from suspended mineral.
   - It should be acceptable.
-- **Reasons/Objectives of using emulsion:**
-  - To make soft fiber.
-  - To increase cohesiveness,
-  - Pliability increase,
-  - To increase flexibility,
-  - To make spinning satisfactory,
-  - To make the fiber suitable for carding,
-  - To give twist and easy movement.
-  - To avoid stiffness.
+
+### **Reasons/Objectives of using emulsion:**
+
+- To make soft fiber.
+- To increase cohesiveness,
+- Pliability increase,
+- To increase flexibility,
+- To make spinning satisfactory,
+- To make the fiber suitable for carding,
+- To give twist and easy movement.
+- To avoid stiffness.
 
 ## Pilling/Conditioning
 
