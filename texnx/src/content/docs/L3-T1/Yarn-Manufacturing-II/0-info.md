@@ -15,7 +15,6 @@ title: YE 307 - Yarn Manufacturing II
 ### Contents
 
 - Jute Manufacturing (fibre to yarn)
-  - Introduction
 - Ply yarn, double yarn, cable yarn
 - Textured yarn
 - Fancy yarn
