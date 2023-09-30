@@ -8,6 +8,10 @@ Jute consists of bast overlapped in such a way that they produce continuous fila
 
 Jute is consists of 65.2% cellulose.
 
+**Composition of Jute**
+
+![](./img/composition-jute.png)
+
 **Why jute is not wearable?**
 
 Jute has the same amount of cellulose as cotton. But jute is not wearable because of the presence of lignin. Lignin is a non-cellulosic substance. It is a hard substance. It is present in the cell wall of jute. Lignin makes jute harsh, hard and brittle. So, jute is not wearable.
@@ -47,7 +51,7 @@ _Jutton is the blend of jute and cotton._
 
 ## Jute yarn count
 
-**Pounds/spyndle:** weight in pounds per 1440 yds of jute yarn is called pounds/spyndle. Here 1 spyndle= 14400 yards.
+**Pounds/spyndle:** weight in pounds per 1440 yds of jute yarn is called pounds/spyndle. Here 1 spyndle= 1440 yards.
 
 For example, if 1440 length of yarn weights 8 pound, then the count is 8 lbs/spyndle.
 
@@ -62,7 +66,7 @@ Two types of jute are mainly used,
 
 ### Classification according to quality
 
-**According to geographical distribution**
+_Or, according to geographical distribution_
 
 1. **JAT:** Best quality, good color, luster, finest, higher length. Grows in Mymensingh, Dhaka and Comilla
 2. **District:** Moderate quality, Close to jat in quality. This jute fiber is not uniform in textures and strands. Its color varies from light cream to dull gray. Its length is shorter. Two types,
@@ -83,4 +87,5 @@ Two types of jute are mainly used,
 ## Flow Chart of Jute Manufacturing
 
 ![](./img/flow-chart-jute-manufacturing.png)
+
 ![](./img/flow-chart-jute-manufacturing-spinning.png)
