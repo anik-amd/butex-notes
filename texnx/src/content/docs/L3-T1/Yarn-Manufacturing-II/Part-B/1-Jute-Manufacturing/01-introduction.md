@@ -89,3 +89,7 @@ _Or, according to geographical distribution_
 ![](./img/flow-chart-jute-manufacturing.png)
 
 ![](./img/flow-chart-jute-manufacturing-spinning.png)
+
+## Acknowledgement
+
+- **Reference:** Class Lecture

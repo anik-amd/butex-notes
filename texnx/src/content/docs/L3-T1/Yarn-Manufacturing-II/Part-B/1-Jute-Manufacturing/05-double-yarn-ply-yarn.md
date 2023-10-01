@@ -46,3 +46,7 @@ Yarn produced by the twisting of two single yarns is called **double yarn.**
 
 - Sheer fabric is fabric which is made using thin thread and/or low density of knit and which results in a semi-transparent and flimsy cloth.
 - Some fabrics become transparent when wet.
+
+## Acknowledgement
+
+- **Reference:** Class Lecture

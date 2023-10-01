@@ -37,7 +37,7 @@ The process by which long reeds of jute while passing through high speed pinned 
 
 ### According to processing
 
-1. **Mono Carding machine:** When a single carding machine with one cylinder is used for carding, its is called Mono carding machine. It is used for cotton, not successful for jute.
+1. **Mono carding machine:** When a single carding machine with one cylinder is used for carding, its is called Mono carding machine. It is used for cotton, not successful for jute.
 2. **Dual carding machine:** When two individual carding machine i.e. breaker card and finisher card are used in carding, they are called dual carding machine. It is used for jute processing.
 3. **Tandem carding machine:** When two carding machines are used at a combination then it is called Tandem Carding machine. The motion is transferred from 1st machine to the 2 nd machine. When one machine stops the other stops automatically. It is used in case of Roller spinning in Cotton. In tandem carding machine, two individual cards make up a unit. The doffer of the 1 st card feeds fiber material to the taker-in of the 2nd card. Double carding of the raw material has a positive effect on quality and on blending. However the advantage is obtained at high cost hardware and maintenance. Again additional space is required for tandem card. About 1% cotton is processed with tandem cards now. Modern cards are considered as a tandem of the latest generation.
 
@@ -46,3 +46,7 @@ The process by which long reeds of jute while passing through high speed pinned 
 1. **Stationary flat card:** In which the flats on the cylinder are fixed and cylinder moves.
 2. **Revolving flat card:** In which the flats on the cylinder are moving and cylinder moves.
 3. **Roller card:** Breaker card, Finisher card, not flat card.
+
+## Acknowledgement
+
+- **Reference:** Class Lecture
