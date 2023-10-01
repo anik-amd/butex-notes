@@ -4,7 +4,7 @@ title: 4.1. Carding Machines
 
 ## Breaker Carding Machine
 
-Breaker Cards are generally down striking and half-circular. In this machine the primary function of jute carding is done by the action of worker and cylinder and the cleaning actions is done between worker and stripper. It is called Breaker Card because it breaks up to the long reeds of jute.
+Breaker Cards are generally down striking and half-circular. In this machine the primary function of jute carding is done by the action of worker and cylinder and the cleaning actions is done between worker and stripper. It is called Breaker Card because it breaks up the long reeds of jute.
 
 ### The main three functions of breaker Card
 
@@ -25,7 +25,7 @@ Breaker Cards are generally down striking and half-circular. In this machine the
 - Drawing Roller
 - Delivery Roller
 
-### Working principle:
+### Working principle
 
 ![](./img/working-principle-of-breaker-carding-machine.png)
 
@@ -82,7 +82,7 @@ Finisher card is full circular and down sticking card. After jute is processed b
 - Then the fiber are passed through drawing Rollers and are transferred to the 2nd doffer and drawing Roller and delivery Roller.
 - Finally, the finisher sliver is condensed to delivery in roll form.
 
-### Speed of Breaker Card & pin angel & setting:
+### Speed of Breaker Card & pin angel & setting
 
 - Cylinder - 2400-2800 ft/min
 - feed Roller - 10-15 ft/min
