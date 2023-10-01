@@ -70,9 +70,9 @@ _Or, according to geographical distribution_
 
 1. **JAT:** Best quality, good color, luster, finest, higher length. Grows in Mymensingh, Dhaka and Comilla
 2. **District:** Moderate quality, Close to jat in quality. This jute fiber is not uniform in textures and strands. Its color varies from light cream to dull gray. Its length is shorter. Two types,
-   1. **Hard:** Higher quality.
-   2. **Soft:** Lower quality.
-3. **Northern:** Somewhat inferior quality. This jute fiber is dull colored fluffy hair and barky. Generally medium length and weak.
+   1. **Hard District:** Higher quality. Grows in Faridpur.
+   2. **Soft District:** Lower quality. Grows in Noakhali, Pabna, Barisal, Sylhet etc.
+3. **Northern:** Somewhat inferior quality. This jute fiber is dull colored fluffy hair and barky. Generally medium length and weak. Grows in Rangpur, Dinajpur, Rajshahi and Bogra.
 
 ## Properties of Jute
 
