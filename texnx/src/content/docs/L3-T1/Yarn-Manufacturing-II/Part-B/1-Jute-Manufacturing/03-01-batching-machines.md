@@ -26,3 +26,7 @@ _To be added._
 ## Jute spreader machine
 
 _To be added._
+
+## Jute Spreader vs Softener Machine
+
+![](./img/jute-spreader-vs-softener-machine.png)
