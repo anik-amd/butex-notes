@@ -87,3 +87,7 @@ Opening of jute bale and separation of stiff root jute and making of _morah_ acc
   - To soften and split up of jute fiber,
   - To loosen the fiber,
   - To convert the rooty material into spinnable fiber.
+
+## Acknowledgement
+
+- **Reference:** Class Lecture

@@ -22,3 +22,7 @@ title: 2. Batch
 4. Soft and hard waste.
 5. Rope waste and jute dust.
 6. Habijabi and tangled jute.
+
+## Acknowledgement
+
+- **Reference:** Class Lecture

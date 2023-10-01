@@ -46,3 +46,7 @@ The process by which long reeds of jute while passing through high speed pinned 
 1. **Stationary flat card:** In which the flats on the cylinder are fixed and cylinder moves.
 2. **Revolving flat card:** In which the flats on the cylinder are moving and cylinder moves.
 3. **Roller card:** Breaker card, Finisher card, not flat card.
+
+## Acknowledgement
+
+- **Reference:** Class Lecture

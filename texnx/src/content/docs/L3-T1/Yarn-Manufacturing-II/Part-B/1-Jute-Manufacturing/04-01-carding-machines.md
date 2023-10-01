@@ -101,7 +101,7 @@ Finisher card is full circular and down sticking card. After jute is processed b
 
 - Breaker card only open out the fiber and remove dirt and dust.
 - Breaker card sliver obtained from breaker card are not complete free from defaults and trash, dirt, dust, foreign matters are present in Breaker card Sliver. Another carding machine is required to remove faults i.e. dirt, dust, trash and parallelizing of the fiber. To perform this function, another carding machine which is used is finisher carding machine.
-- Fibers obtained from breaker card does not have spinning property required. So finisher card is used for making the fibers spinnable. 
+- Fibers obtained from breaker card does not have spinning property required. So finisher card is used for making the fibers spinnable.
 
 ## Factors which influence carding
 
@@ -151,3 +151,7 @@ _Or, Modern trends and developments of carding_
   - Pin direction same,.
   - Rotation direction same.
   - Speed of stripper is higher than worke
+
+## Acknowledgement
+
+- **Reference:** Class Lecture
