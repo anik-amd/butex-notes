@@ -46,7 +46,7 @@ Yarn produced by the twisting of two single yarns is called **double yarn.**
   - Here,
     - $N$ = Single yarn count.
     - $n$ = Number of single yarns in the ply.
-  - For example, a ply consists of three single yarns, each having a count of 30 Nm. Ply Count, $NR = \frac{N}{n} = \frac{30}{3}=10$ Tex.
+  - For example, a ply consists of three single yarns, each having a count of 30 Nm. Ply Count, $NR = \frac{N}{n} = \frac{30}{3}=10$ Nm.
 
 ## Sheer Fabric
 
