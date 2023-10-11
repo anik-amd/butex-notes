@@ -16,15 +16,21 @@ Yarn produced by the twisting of two single yarns is called **double yarn.**
 
 - **Usage:** Ply yarns provide strength for heavy industrial fabrics and are also used for delicate-looking sheer fabrics.
 
+![](./img/ply-yarn-2-5.png)
+
 ## Cord Yarn
 
 - **Cord yarns** are produced by twisting ply yarns together, with the final twist usually applied in the opposite direction of the ply twist.
 
-- **Twist Direction:** Cable cords may follow an `SZS` form, with S-twisted singles made into Z-twisted plies that are then combined with an S-twist to make final cords, or may follow a `ZSZ` form.
+- **Twist Direction:**
+
+  - **Cable cords** may follow an `SZS` form, with S-twisted singles made into Z-twisted plies that are then combined with an S-twist to make final cords, or may follow a `ZSZ` form.
 
   - **Hawser cord** may follow an `SSZ` or a `ZZS` pattern.
 
 - **Usage:** Cord yarns may be used as rope or twine, may be made into very heavy industrial fabrics, or may be composed of extremely fine fibers that are made up into sheer dress fabrics.
+
+![](./img/cord-yarn-formation.png)
 
 ## Count Calculations
 

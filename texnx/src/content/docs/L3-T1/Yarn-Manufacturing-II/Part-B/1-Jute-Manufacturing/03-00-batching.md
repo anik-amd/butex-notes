@@ -32,6 +32,12 @@ Opening of jute bale and separation of stiff root jute and making of _morah_ acc
 - Oil: 25.4%
 - Emulsifier: 1.6%
 
+###  Emulsion for CBC
+
+- Water: 89-91%
+- Oil: 8-10%
+- Emulsifier: 0.5-1%
+
 ### Functions of elements of emulsion
 
 - **Function of oil:**

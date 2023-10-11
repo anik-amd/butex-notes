@@ -21,7 +21,17 @@ The ‘OD’ batch mixer is a simple automatic machine for producing stable batc
 
 ## Jute softener machine-single softener machine
 
-_To be added._
+- **Construction:**
+  ![](./img/single-softerner-machine.png)
+  - These machines consist of 24-64 pairs of rollers.
+  - Rollers are spirally fluted and jute goes through them.
+  - A feed sheet and a delivery sheet is placed before
+    feed rollers and after delivery rollers respectively.
+- **Working Procedure:**
+  - In this machine, material is fed manually on feed sheet (6ft long).
+  - Then through feed roller the material goes through a series of spirally fluted rollers. Spirally fluted rollers have right hand and left hand spiral flutes alternative.
+  - After passing 1/3 area between the feed rollers and delivery roller, emulsion is applied over material, which soften jute, and a tray below the machine collects excess emulsion.
+  - Then through the delivery roller, the material is delivered from delivery sheet.
 
 ## Jute spreader machine
 
