@@ -1,5 +1,5 @@
 ---
-title: 1. Management & Organization
+title: 1. Basics of Industrial Management
 ---
 
 ## Introduction to Industrial Management
